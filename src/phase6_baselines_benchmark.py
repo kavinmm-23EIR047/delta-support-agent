@@ -68,15 +68,19 @@ class Baseline1_TfidfStaticTemplates:
         # Assign coarse class
         train_labels = []
         for d in training_data:
-            cat = d.get('category', 'GENERAL_INQUIRY')
-            if 'SAFETY' in cat or 'MEDICAL' in cat or 'DISRUPT' in cat:
+            cat = (d.get('ground_truth_intent') or d.get('category') or 'GENERAL_INQUIRY').upper()
+            if 'SAFETY' in cat or 'MEDICAL' in cat or 'DISRUPT' in cat or 'EMERGENCY' in cat:
                 train_labels.append("FLIGHT_DISRUPTION")
             elif 'BAG' in cat:
                 train_labels.append("BAGGAGE_ISSUES")
-            elif 'LEGAL' in cat or 'REFUND' in cat:
+            elif 'LEGAL' in cat or 'REFUND' in cat or 'CREDIT' in cat or 'COMPENSATION' in cat:
                 train_labels.append("REFUNDS_AND_COMPENSATION")
-            elif 'SECURITY' in cat or 'SKYMILES' in cat:
+            elif 'SECURITY' in cat or 'SKYMILES' in cat or 'LOYALTY' in cat:
                 train_labels.append("SKYMILES_AND_LOYALTY")
+            elif 'RESERVATIONS' in cat or 'TICKETING' in cat or 'BOOKING' in cat:
+                train_labels.append("BOOKING_AND_TICKETING")
+            elif 'AIRPORT' in cat or 'ONBOARD' in cat or 'EXPERIENCE' in cat:
+                train_labels.append("IN_FLIGHT_AND_AIRPORT_SERVICE")
             else:
                 train_labels.append("GENERAL_INQUIRY")
                 

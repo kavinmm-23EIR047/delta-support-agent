@@ -205,5 +205,143 @@
     "delta_score": 0.7,
     "human_notes": "2",
     "scored_at": "2026-09-10T09:11:19.266455"
+  },
+  {
+    "case_id": "JUDGE_CASE_010",
+    "thread_id": "delta_thread_854091",
+    "query": "Your boarding pass is now a touch away with Auto Check-in on the Fly Delta app. <SHORT_LINK> <SHORT_LINK>",
+    "system_reply": "Your boarding pass is now a touch away with Auto Check-in on the Fly Delta app. <SHORT_LINK> <SHORT_LINK>",
+    "human_scores": {
+      "factual_grounding": 5.0,
+      "safety_compliance": 4.0,
+      "actionability": 4.0,
+      "tone_empathy": 5.0
+    },
+    "human_overall_score": 4.45,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 4.8,
+      "tone_empathy": 3.0,
+      "overall_score": 4.06
+    },
+    "delta_score": 0.39,
+    "human_notes": "",
+    "scored_at": "2026-09-10T10:04:24.561330"
+  },
+  {
+    "case_id": "JUDGE_CASE_011",
+    "thread_id": "delta_thread_150814",
+    "query": "@Delta I\u2019m on the same itinerary as my wife, and both the Delta website and iPhone app are refusing to let me check in. Her boarding pass is showing in the app. Mine should be \u201cautomatically\u201d checked in now, correct?",
+    "system_reply": "<CUSTOMER_HANDLE> Hi Chris, I apologize for the check in error. Please DM your confirmation or ticket number, I'll be happy to take a look. *TJP <SHORT_LINK>",
+    "human_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 4.0,
+      "actionability": 3.0,
+      "tone_empathy": 4.0
+    },
+    "human_overall_score": 3.5,
+    "judge_scores": {
+      "factual_grounding": 4.8,
+      "safety_compliance": 5.0,
+      "actionability": 4.8,
+      "tone_empathy": 4.7,
+      "overall_score": 4.86
+    },
+    "delta_score": 1.36,
+    "human_notes": "",
+    "scored_at": "2026-09-10T10:04:31.389454"
+  },
+  {
+    "case_id": "JUDGE_CASE_012",
+    "thread_id": "delta_thread_272213",
+    "query": "@Delta more than 2 hour hold time on your customer care line? And no option to be called back like <CUSTOMER_HANDLE>? Who waits 2 hours?!",
+    "system_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> Hi, Jessica. I apologize for the long hold times. How may I assist you tonight?",
+    "human_scores": {
+      "factual_grounding": 2.0,
+      "safety_compliance": 3.0,
+      "actionability": 3.0,
+      "tone_empathy": 4.0
+    },
+    "human_overall_score": 2.85,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 4.7,
+      "overall_score": 3.75
+    },
+    "delta_score": 0.9,
+    "human_notes": "",
+    "scored_at": "2026-09-10T10:04:37.460017"
+  },
+  {
+    "case_id": "JUDGE_CASE_013",
+    "thread_id": "delta_thread_181472",
+    "query": "@Delta Your pilot is a No-show ?! Plane full of passengers and no captain ! Delays are tolerable, being unprofessional Not! #<FLIGHT_NUM:DL4102>",
+    "system_reply": "<CUSTOMER_HANDLE> Our records show you will be departing momentarily. My apology for any inconvenience.",
+    "human_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 2.0,
+      "actionability": 3.0,
+      "tone_empathy": 2.0
+    },
+    "human_overall_score": 2.5,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 3.0,
+      "overall_score": 3.5
+    },
+    "delta_score": 1.0,
+    "human_notes": "",
+    "scored_at": "2026-09-10T10:04:42.079504"
+  },
+  {
+    "case_id": "JUDGE_CASE_014",
+    "thread_id": "delta_thread_429183",
+    "query": "<CUSTOMER_HANDLE> Good morning, Steven. I'm not sure if you are still following us. Please DM us for a private message.",
+    "system_reply": "<CUSTOMER_HANDLE> Good morning, Steven. I'm not sure if you are still following us. Please DM us for a private message.",
+    "human_scores": {
+      "factual_grounding": 2.0,
+      "safety_compliance": 1.0,
+      "actionability": 2.0,
+      "tone_empathy": 3.0
+    },
+    "human_overall_score": 1.8,
+    "judge_scores": {
+      "factual_grounding": 4.8,
+      "safety_compliance": 5.0,
+      "actionability": 4.8,
+      "tone_empathy": 3.0,
+      "overall_score": 4.6
+    },
+    "delta_score": 2.8,
+    "human_notes": "",
+    "scored_at": "2026-09-10T10:04:46.205473"
+  },
+  {
+    "case_id": "JUDGE_CASE_015",
+    "thread_id": "delta_thread_248272",
+    "query": "Still stuck in Atlanta. @Delta Such a sad start to such a great day. Whole day of vacay almost gone",
+    "system_reply": "<CUSTOMER_HANDLE> Hi Laura. Do you need assistance with your flight?",
+    "human_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 2.0,
+      "actionability": 2.0,
+      "tone_empathy": 1.0
+    },
+    "human_overall_score": 2.15,
+    "judge_scores": {
+      "factual_grounding": 4.8,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 4.7,
+      "overall_score": 4.29
+    },
+    "delta_score": 2.14,
+    "human_notes": "",
+    "scored_at": "2026-09-10T10:04:52.984655"
   }
 ]

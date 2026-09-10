@@ -1,0 +1,230 @@
+{
+  "audit_size": 32,
+  "self_consistency_rate": 0.46875,
+  "details": [
+    {
+      "id": "GOLD_104",
+      "text": "Thank you for the smoothest holiday travel! Major kudos to @Delta <CUSTOMER_HANDLE> <CUSTOMER_HANDLE> #goldmedallion #thanksgiving #friendsAndFamily",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 0,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_098",
+      "text": "Just landed in Hong Kong and made diamond with that flight. @Delta thank you! <SHORT_LINK>",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_052",
+      "text": "@Delta an entire flight is stranded at MSP and all we got was a lousy slice of pizza",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_154",
+      "text": "Where do you like to travel during #winter holidays?",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_046",
+      "text": "@Delta rebook help! Lol, anything. Gate was full so we didn't make our connection. Gate agent left.",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_059",
+      "text": "@Delta it's been going on for a few weeks now",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_064",
+      "text": "Flew @Delta today- excellent service onboard and early arrivals\u2014 very impressed!",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_035",
+      "text": "@Delta before I flew, you said ask our gate agent about an upgrade. They said they don't do upgrades in the 24 hours before a flight. Who's correct?",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_023",
+      "text": "@Delta My bag was absolutely destroyed last night on flight <FLIGHT_NUM:DL4681>. No Delta person was in sight when I retrieved it. Flown hundreds of thousands of miles with you, but this left a bad taste in my mouth. Thousands of dollars worth of damage. I need assistance! <SHORT_LINK>",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_065",
+      "text": "@Delta - I\u2019m trying to give you money \ud83d\udcb0 but can\u2019t get logged into my sky miles account. Changed password, followed prompts, still no luck.",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_099",
+      "text": "Delta 2415 will it be canceled? Please let me know <CUSTOMER_HANDLE> @Delta",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 0,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_136",
+      "text": "@Delta just wanted to give a HUGE shout out to this amazing company! Outstanding crews and customer service! Well done\ud83d\ude0a",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_138",
+      "text": "@Delta will you please process my flight to and from MOB/SAN on 20-22Nov? <PNR_CONFIRMATION_CODE> I'm 11,000 from diamond status. Thanks.",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_152",
+      "text": "Where is your weekend taking you? <SHORT_LINK>",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_126",
+      "text": "@Delta Thank U 2 BRIDGETTE at the SkyClub A17 in <CUSTOMER_HANDLE> for the POSITIVE attitude n hard work, n most of all, the Smile! #itsagoodday \ud83d\ude03",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_158",
+      "text": "Thanks @Delta for the 2 1/2h delayed! (@ John F. Kennedy International Airport in Queens, NY) <SHORT_LINK>",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_108",
+      "text": "Where do you like to travel during #winter holidays?",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_056",
+      "text": "Gotta say @Delta your October campaign for <CUSTOMER_HANDLE> is really all out and very touching.\u2026 <SHORT_LINK>",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_096",
+      "text": "Where is your weekend taking you? <SHORT_LINK>",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_100",
+      "text": "Had to make a pit stop for quick plane fix but they fed us pizza while we waited \ud83c\udf55\ud83c\udf55Thanks @Delta! #ineedmorewinethough \ud83d\ude02\ud83d\ude02",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_055",
+      "text": "Three hour delay and still no estimated time of departure from #JFK. Also, poor customer service here at C63. @Delta",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_039",
+      "text": "@Delta #delta moves you to #dm the moment you have a #complaint with no results. Just got some #bs #answers but no real reason why they changed our #seating!",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_119",
+      "text": "@Delta however, I can't pick a seat? What does this mean?",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_156",
+      "text": "<CUSTOMER_HANDLE> Can you follow for a DM?",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_087",
+      "text": "Thank you @Delta and NYC team for the Porsche ride. Great start for vacation!",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_022",
+      "text": "@Delta afraid my many years of flying only Delta has changed! Seriously delayed flight for 2 hours for restroom and we miss our vacation!",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_147",
+      "text": "At gate 1min after doors close because of <CUSTOMER_HANDLE> #incompetence . 20min wait for inspection of an apple. Thanks @Delta for #nevermakinguswait",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_121",
+      "text": "@Delta - Do you have an idea when you will add more daily flights to STT from airports other than ATL? Thanks! #stjohn #virginislands",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_081",
+      "text": "@Delta Five empty gates at MCO labeled Delta and we have to wait for an aircraft to move? #fail",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_160",
+      "text": "Happy Thanksgiving to the US from Cleveland! Thank you @Delta for the great flight! \ud83d\udcf8 by\u2026 <SHORT_LINK>",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_011",
+      "text": "@Delta Your website comment form makes return trip a required field set. That's a problem for asking questions about 1-way flights.",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 1,
+      "is_consistent": true
+    },
+    {
+      "id": "GOLD_069",
+      "text": "Sunrise Tampa vs LA landing w/ @Delta today. \ud83d\udeeb\u2708\ufe0f\ud83d\udeec #TPA #LAX <SHORT_LINK>",
+      "original_escalate": 1,
+      "blind_relabel_escalate": 0,
+      "is_consistent": false
+    }
+  ]
+}

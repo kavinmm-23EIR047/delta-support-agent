@@ -71,5 +71,1535 @@
     "ground_truth_intent": "SKYMILES_AND_LOYALTY",
     "human_rationale": "w",
     "labeled_at": "2026-09-10T09:29:45.773283"
+  },
+  {
+    "id": "GOLD_008",
+    "thread_id": "delta_thread_40667",
+    "text": "One day waiting for an answer from @Delta \ud83e\udd26\u200d\u2642\ufe0f",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I'm so sorry this happened. :-( I'm showing you purchased a Preferred seat instead of Delta Comfort +.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_009",
+    "thread_id": "delta_thread_234605",
+    "text": "Hey @Delta - why\u2019d <FLIGHT_NUM:DL4016> to DCA just get turned around midair and sent back to JFK?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, David. Is that the correct flight number? I show the plane for <FLIGHT_NUM:DL4016> landed in DCA @ 8:49 AM.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_010",
+    "thread_id": "delta_thread_427866",
+    "text": "<SHORT_LINK> @Delta #reuniteCandela please help me",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> After reviewing my resources it's showing that there has been a waiver that has been approved for pet in cabin only.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_011",
+    "thread_id": "delta_thread_3885",
+    "text": "@Delta Your website comment form makes return trip a required field set. That's a problem for asking questions about 1-way flights.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Wow, thanks for sharing this with us J. I will be sure to share your feedback with our Online Support team.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_012",
+    "thread_id": "delta_thread_40667",
+    "text": "One day waiting for an answer from @Delta \ud83e\udd26\u200d\u2642\ufe0f",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> This is indicated on your receipt for the purchase.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_013",
+    "thread_id": "delta_thread_139224",
+    "text": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> why are you not open? #deltaone #PVG and can\u2019t check in <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Oh no! I'm sorry to hear this. Were you able to get checked in?",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_014",
+    "thread_id": "delta_thread_355367",
+    "text": "I don\u2019t understand why my parents are held accountable for @Delta mistake and failure",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Pls follow/DM their conf. # for review. *HJB <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_015",
+    "thread_id": "delta_thread_155449",
+    "text": "@Delta can i get a follow back please :(",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Sure! Following in 3...2...1.... NOW!",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_016",
+    "thread_id": "delta_thread_126923",
+    "text": "This is the most mishandled flight by an airline I've ever witnessed and I have flown A LOT. We've been at the gate delayed 9 hours - no meal vouchers, no information, no help. Crying babies, frustrated customers. Really shameful @Delta <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I apologize deeply. We are working as fast as we can to get you to your final destination as soon as we are able to do so. We appreciate yuur patience.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_017",
+    "thread_id": "delta_thread_201170",
+    "text": "<CUSTOMER_HANDLE> thanks for the wonderful service by Brittany @ Platnium desk for a cancelled flight out of ARN-&gt;AMS. Rebooked &amp; kept Deltaone \ud83d\udc4d",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> Mak, thank you for sharing this awesome compliment with us. Thank you for flying with us.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "FLIGHT_DISRUPTIONS",
+    "human_rationale": "Severe flight disruption with stranded passenger or missed connection; requires human agent rebooking and operational duty-of-care assistance.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_018",
+    "thread_id": "delta_thread_306984",
+    "text": "@Delta in very long security line in Newark, going to miss flight. Can't reach airline by phone to talk to anyone - help?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Lisa. Did you still need assistance?",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_019",
+    "thread_id": "delta_thread_273649",
+    "text": "What a beautiful sunrise from @Delta flight <FLIGHT_NUM:DL1246> CVG-LAX. So\u2026 <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Awesome! Glad you enjoyed it.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_020",
+    "thread_id": "delta_thread_97786",
+    "text": "@Delta cancelled an award flight over 24 hours ago but miles haven\u2019t been redeposited into my account. Could you check on that?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Justin. I will be happy to take a look. Please share your SkyMiles Account Number via DM for further review. *AJZ <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "FLIGHT_DISRUPTIONS",
+    "human_rationale": "Severe flight disruption with stranded passenger or missed connection; requires human agent rebooking and operational duty-of-care assistance.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_021",
+    "thread_id": "delta_thread_30105",
+    "text": "Wheels up before the sun is up. Sunrise in the skies can\u2019t be beat @Delta <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Good morning, Katie. Thank you for the cool pic. \ud83d\udc4d",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_022",
+    "thread_id": "delta_thread_31583",
+    "text": "@Delta afraid my many years of flying only Delta has changed! Seriously delayed flight for 2 hours for restroom and we miss our vacation!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Jonathan, I'm so sorry to hear we let you down. Please let us know if you need re-booking assistance.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_023",
+    "thread_id": "delta_thread_77827",
+    "text": "@Delta My bag was absolutely destroyed last night on flight <FLIGHT_NUM:DL4681>. No Delta person was in sight when I retrieved it. Flown hundreds of thousands of miles with you, but this left a bad taste in my mouth. Thousands of dollars worth of damage. I need assistance! <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Oh no! I'm so very sorry to see the condition of your bag, Dave. I understand no one was available in the Baggage Service Office at the time you got in. However, for damaged baggage, we do need to see the damage in the Baggage Service Office within 24 hours of the flight.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_024",
+    "thread_id": "delta_thread_270963",
+    "text": "@Delta Flying w/ infant. No hotel given despite 8+ hours delay due 2 mech. issues &amp; proposed flight only getting halfway to dest. by 1:30am!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> ...rebooking assistance is needed. *HVI 2/2",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_025",
+    "thread_id": "delta_thread_187411",
+    "text": "@Delta Helped mom buy tix but then realized she has $100 Delta gift card. Can it be applied or do we cancel tix &amp; buy again to use gift?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Cynthia. She would need to cancel the current one and purchase it again. We are unable to add it after ticketing.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_026",
+    "thread_id": "delta_thread_554212",
+    "text": "The @Delta ATL club is packed now. It was super dead when I walked in.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hope you found our Sky Club relaxing today.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_027",
+    "thread_id": "delta_thread_855589",
+    "text": "We're honored to be <CUSTOMER_HANDLE> certified as a #GreatPlacetoWork by our employees for the 2nd year in a row! #DeltaProud <SHORT_LINK>",
+    "actual_historical_reply": "We're honored to be <CUSTOMER_HANDLE> certified as a #GreatPlacetoWork by our employees for the 2nd year in a row! #DeltaProud <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_028",
+    "thread_id": "delta_thread_507513",
+    "text": "There\u2019s this man in the SkyClub. Talking business. Quite loudly. Lots of expletives. Lots of ladies around. Gave him a tongue lashing with my eyes. @Delta #pottymouth",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi. Please alert a Sky Club Manager, so they can assist. Sorry for the inconsideration on his behalf.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_029",
+    "thread_id": "delta_thread_337508",
+    "text": "@Delta I\u2019m enrolled in your Crossover program with SPG, am SPG plat and can\u2019t access upgrade list for flight tomorrow. Can you help?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Your account says that you're only Gold level. If you have your Starwood ID, please send it to this link. Be aware, though, that it... 1/2",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_030",
+    "thread_id": "delta_thread_548730",
+    "text": "Seriously @Delta you think it\u2019s \u2018cool\u2019 to just Change a flight that takes off at 7:30 am to 5:50 am?!?! #becauseitsnot #stopchangingalltheflights #ihavesmallkids",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I would be happy to research this for you. Please DM your <PNR_CONFIRMATION_CODE> here. *TMT <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_031",
+    "thread_id": "delta_thread_11709",
+    "text": "yet ANOTHER flight delay, and now I won't be getting home until midnight. I want 7 hours of my life back, @Delta.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> So sorry to hear about the delay. Please DM your confirmation # so that we can look into this.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_032",
+    "thread_id": "delta_thread_401734",
+    "text": "@Delta if you are not going to reply please let me know so I can pursue other avenues of support.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Please DM me and I can provide that information. Thank you.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_033",
+    "thread_id": "delta_thread_180422",
+    "text": "Checked my bag on @Delta with a pocket full of <CUSTOMER_HANDLE>, pick it up at bag claim wet and with the bag open and all of my bars gone. #crappy",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Olivia. I sincerely apologize about what has happened. Please submit the receipt for your larabars and we will look to refund you.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_034",
+    "thread_id": "delta_thread_141348",
+    "text": "Off to <CUSTOMER_HANDLE> and @Delta for a few days off the grid in <CUSTOMER_HANDLE>. Hoping this visit is much better.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Thank you for flying with us. Please tweet us, if you need us. Thank you.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_035",
+    "thread_id": "delta_thread_415184",
+    "text": "@Delta before I flew, you said ask our gate agent about an upgrade. They said they don't do upgrades in the 24 hours before a flight. Who's correct?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We are unable to quote or grant an upgrade once you are checked in. We would need to uncheck you in order to do so, Callum.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_036",
+    "thread_id": "delta_thread_353411",
+    "text": "@Delta Can I hold a ticket price until tomorrow before I buy? I need to check my convention info before I book. But I don\u2019t want to lose this price!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hey there. Unfortunately, we are not able to hold tickets. However, you can purchase the ticket now and you have 24hrs from the time you purchased to cancel Risk free and no penalties.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_037",
+    "thread_id": "delta_thread_152351",
+    "text": "I have been waiting at the @Delta baggage drop in an unmoving line for 15 minutes. There are eight stations available and there is only ONE woman working the Sky Priority line. I\u2019ve missed flights before bc of this.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello, Hannah. Sorry to hear about your disappointment. We try our very best to attend all of our passengers as fast as we can. We recommend to all of our passengers to be at the airport at least 2 hours for domestic flights and 3 hours for international trips. Please... 1/2",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_038",
+    "thread_id": "delta_thread_268754",
+    "text": "<CUSTOMER_HANDLE> @Delta I am on <FLIGHT_NUM:DL2009> tomorrow from O\u2019Hare to Atlanta. Is there anyway I can switch to <FLIGHT_NUM:DL812> tomorrow instead?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> ...confirmation #. *AMS 2/2",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_039",
+    "thread_id": "delta_thread_817",
+    "text": "@Delta #delta moves you to #dm the moment you have a #complaint with no results. Just got some #bs #answers but no real reason why they changed our #seating!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We sincerely apologize for your disappointment. We always strive to create a positive customer experience.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_040",
+    "thread_id": "delta_thread_367988",
+    "text": "@Delta hi \ud83d\udc4b my flight tonight was rebooked thru ATL and I\u2019m looking to change to a direct flight LGA &gt; RDU. <PNR_CONFIRMATION_CODE>. \ud83c\udd98\ud83c\udf39",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello, Sara. I'll be glad to help you. Which flight would you like? I have 4:40 pm, 5:29 pm, 6:30 pm, and 8:30 pm. Filling up fast.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_041",
+    "thread_id": "delta_thread_519974",
+    "text": "@Delta Why is the current wait time to talk to an agent 2HRs",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> My sincere apologies for all delays, as we have been experiencing higher than normal volume.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_042",
+    "thread_id": "delta_thread_321442",
+    "text": "@Delta I have now tried multiple ways to contact you. Responses are far less then satisfactory.My bag was damaged and it needs to be fixed. <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Oh wow! I'm really sorry for the inconvenience. Have you already file a damaged bag claim?",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_043",
+    "thread_id": "delta_thread_243397",
+    "text": "@Delta lines at bag drip for RDU are getting longer - have been here for 15mins already, only 1 person on bag drop. Not great",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Kathy. I'm sorry for the inconvenience.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_044",
+    "thread_id": "delta_thread_263462",
+    "text": "@Delta literally CANNOT FEEL THE AIR AT VENTS !!!!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hmm.... what is the flight number? I will share this with our leadership team for further review.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_045",
+    "thread_id": "delta_thread_165192",
+    "text": "@Delta shame - moved our seats to the back of the plane and no ability to upgrade to business\u2026 <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi. Thanks for the mention. Would you like me to take a second look at your reservation.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_046",
+    "thread_id": "delta_thread_387666",
+    "text": "@Delta rebook help! Lol, anything. Gate was full so we didn't make our connection. Gate agent left.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I'm showing the ticket is non-refundable changeable with a fee, and may result in additional fare collection.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_047",
+    "thread_id": "delta_thread_97790",
+    "text": "@Delta Does buying Basic Economy guarantee a seat? I understand that I can't pick the seat",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Yes, a seat is guaranteed, but an advance seat selection is not allowed. You will be assigned a seat upon check in.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_048",
+    "thread_id": "delta_thread_363797",
+    "text": "Interesting that @Delta gave the four available Comfort+ seats to standby passengers leaving four people on upgrade waitlist \ud83d\ude25",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Kristie, sorry to hear this. Certainly not how we do things here at Delta.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_049",
+    "thread_id": "delta_thread_250816",
+    "text": "@Delta If I cancelled a pay w/miles reservation within 24hrs, how long will it take for the skymiles to be returned to my account? Same day?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Michael. Any refund takes up to seven days to process. Any money refunded can take up to one to two billing cycles.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "FLIGHT_DISRUPTIONS",
+    "human_rationale": "Severe flight disruption with stranded passenger or missed connection; requires human agent rebooking and operational duty-of-care assistance.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_050",
+    "thread_id": "delta_thread_373403",
+    "text": "@Delta I need help with a delayed baggage claim. Can you please contact me in PM?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Jerome. I'd be happy to assist. Please follow/DM your confirmation code or tkt # to better assist.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_051",
+    "thread_id": "delta_thread_488956",
+    "text": "@Delta why is this old plane still even in your fleet? Tray table is broken. Guy behind me has to POUND on his screen to get it to work. And this is JFK - LAX \ud83d\ude21\ud83d\ude21 <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> My apologies for the experience Jess! Have you spoken with the crew about the tray table and if so what did they say?",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_052",
+    "thread_id": "delta_thread_419936",
+    "text": "@Delta an entire flight is stranded at MSP and all we got was a lousy slice of pizza",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I'm so sorry to hear about the delay. For assistance, please follow/DM your <PNR_CONFIRMATION_CODE>. *AMV <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "FLIGHT_DISRUPTIONS",
+    "human_rationale": "Severe flight disruption with stranded passenger or missed connection; requires human agent rebooking and operational duty-of-care assistance.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_053",
+    "thread_id": "delta_thread_372958",
+    "text": "@Delta I was bumped enroute to SEA from 2517 to 2808, agent was polite but couldn't move me to sit with my wife- long flight separated.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Andrew. Please DM us your <PNR_CONFIRMATION_CODE> so we can look into this. *ALA <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_054",
+    "thread_id": "delta_thread_19782",
+    "text": "@Delta Hi! How can I change the language on the Delta Fly App?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Good evening! Give me a moment to look into this for you.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_055",
+    "thread_id": "delta_thread_342853",
+    "text": "Three hour delay and still no estimated time of departure from #JFK. Also, poor customer service here at C63. @Delta",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Sorry, you're not having a great travel experience with us today. We know delays are frustrating, we hope to have you in the air soon!",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_056",
+    "thread_id": "delta_thread_372961",
+    "text": "Gotta say @Delta your October campaign for <CUSTOMER_HANDLE> is really all out and very touching.\u2026 <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> Thank you. Delta is always very big on support BCRF every year. #DeltaProud",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_057",
+    "thread_id": "delta_thread_679178",
+    "text": "#PrideInFlight means an equal workplace for everyone. We're honored to receive a perfect score for the 2nd year in a row from the <CUSTOMER_HANDLE>. <SHORT_LINK>",
+    "actual_historical_reply": "#PrideInFlight means an equal workplace for everyone. We're honored to receive a perfect score for the 2nd year in a row from the <CUSTOMER_HANDLE>. <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_058",
+    "thread_id": "delta_thread_394635",
+    "text": "I see your flight was from jfk to atl @Delta so was domestic or intl \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f omg really",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I understand how frustrating that is. We look forward to serving you better on your next flight.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_059",
+    "thread_id": "delta_thread_408013",
+    "text": "@Delta it's been going on for a few weeks now",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, please DM me if you need assistance. Thank you. *TMB <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_060",
+    "thread_id": "delta_thread_1519370",
+    "text": "The ones who truly change the world, are the ones who can\u2019t wait to get out in it. <SHORT_LINK>",
+    "actual_historical_reply": "The ones who truly change the world, are the ones who can\u2019t wait to get out in it. <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_061",
+    "thread_id": "delta_thread_403662",
+    "text": "Flight delayed? C'mon @Delta don't do me like that baby I thought we had something",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We're sorry for your experience today, Tedley. Delays are never intentional. We appreciate your continued patience!",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_062",
+    "thread_id": "delta_thread_182620",
+    "text": "@Delta what\u2019s your lost and found url? When I search it, a <SHORT_LINK> site comes up first.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello! I am here to help. Could you provide your <PNR_CONFIRMATION_CODE> via DM so I can take a look for you? Thanks. *TDL... 1/2",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_063",
+    "thread_id": "delta_thread_2396107",
+    "text": "#Delta y #Aerom\u00e9xico se unen para darte lo mejor de los dos. <SHORT_LINK>",
+    "actual_historical_reply": "#Delta y #Aerom\u00e9xico se unen para darte lo mejor de los dos. <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_064",
+    "thread_id": "delta_thread_51774",
+    "text": "Flew @Delta today- excellent service onboard and early arrivals\u2014 very impressed!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Thanks for sharing your great experience. It was great having you on board! :-)",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_065",
+    "thread_id": "delta_thread_44709",
+    "text": "@Delta - I\u2019m trying to give you money \ud83d\udcb0 but can\u2019t get logged into my sky miles account. Changed password, followed prompts, still no luck.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Please contact our Online Customer Support Desk at <PHONE_NUMBER>.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_066",
+    "thread_id": "delta_thread_497833",
+    "text": "Always a bit unsettling to do a go around on final approach, but my @Delta pilots were awesome....so grateful for their professionalism.....&amp; I figure I get like 20 extra SkyMiles!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Erin, sorry you hang out with us a little longer than planned but it seems Air Traffic Control reported congestion and for safety reasons we had to wait. I do apologize again. We'll do our best to give a better experience in the future.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_067",
+    "thread_id": "delta_thread_301164",
+    "text": "@Delta any recommendation for us on <FLIGHT_NUM:DL2880> tonight. Lands after our Detroit connection takes off.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Eric. Could you please send me your confirmation or ticket number to take a look? *AFM <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_068",
+    "thread_id": "delta_thread_181658",
+    "text": "<CUSTOMER_HANDLE> I need a phone number to reset my password I can't use800 because I am out of the country thks",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> Lucas, you can reset your password using this link <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_069",
+    "thread_id": "delta_thread_496236",
+    "text": "Sunrise Tampa vs LA landing w/ @Delta today. \ud83d\udeeb\u2708\ufe0f\ud83d\udeec #TPA #LAX <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Great photo Deedee! Thanks for sharing. \ud83d\udcf7",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_070",
+    "thread_id": "delta_thread_414068",
+    "text": "@Delta lost my daughter's booster in Atlanta airport on Sept 15th. File Ref N: MCODL44145 still waiting for solution ASAP",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hey there. Thank you for your message. I would like to apologize for this delay with your booster seat. I will reach out to our... 1/2",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_071",
+    "thread_id": "delta_thread_399261",
+    "text": "@Delta, Karen and crew were outstanding NRT-ATL today. Always a pleasure to return home on DL after a long trip overseas.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> ...the crew members were with you. *HJH 2/2",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_072",
+    "thread_id": "delta_thread_178788",
+    "text": "@Delta hi reached over DM for some support",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Harry, thanks for contacting us today. How may I assist you?",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_073",
+    "thread_id": "delta_thread_303574",
+    "text": "3 times I\u2019ve returned from overseas this year, and 3 times my connecting flight back home has been delayed in ATL. C\u2019mon @Delta",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Know it is not our intention to delay or inconvenience you. Please advise if re-booking assistance is needed.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_074",
+    "thread_id": "delta_thread_311927",
+    "text": "@Delta Hi, I'm wanting to fly from Vancouver to Cancun, the flight has a layover in LAX, do I need an ESTA? (On a UK or German passport)",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Yes, you will require an ESTA.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_075",
+    "thread_id": "delta_thread_345517",
+    "text": "@Delta wow delta what is it with the 105 dB of Music while sitting at gate. Need earplugs.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hey there. I am very sorry about this. We appreciate your feedback.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_076",
+    "thread_id": "delta_thread_506139",
+    "text": "Earn-Miles-On-It gift idea (pricey edition): 3,300 <CUSTOMER_HANDLE> 2,200 @Delta 2,200 <CUSTOMER_HANDLE> 2,200 <CUSTOMER_HANDLE> miles on this Gucci GG belt bag at Net-A-Porter - but only if you use your airline's shopping portal. #FrequentFlyer #GiftIdeas #GiftGuide <SHORT_LINK> <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello, there. Thank you for sharing.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_077",
+    "thread_id": "delta_thread_401736",
+    "text": "@Delta hi, I'll fly from JFK to Frankfurt. I have a carry on with me, can I also take a bag (40x30x25) with me if it fits under the seat?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Please, DM for additional information.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_078",
+    "thread_id": "delta_thread_62442",
+    "text": "This gets better by the minute: @Delta solution is to have a team of mechanics drive a *spare tire* from Atlanta to Charlottesville. <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Ben, I am sorry you are delayed. If you need rebooking help please DM your <PNR_CONFIRMATION_CODE>. *TLT <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_079",
+    "thread_id": "delta_thread_139210",
+    "text": "Hey @Delta my KTID is in my profile but my bp doesn\u2019t say pre check. What am I doing wrong?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I apologize for this. Please follow/DM your <PNR_CONFIRMATION_CODE> so that I may look into this further. Thank you.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_080",
+    "thread_id": "delta_thread_470298",
+    "text": "#flyingwhiledisabled is always terrifying but I have to give kudos to @Delta cabin crew on <FLIGHT_NUM:DL2170> for making sure I was safe. Especially the gentleman who checked me in at SLC - I didn't catch his name but he triple-checked my wheelchair assistance &amp; made me feel safe.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Maddie, I am so glad that we were able to make your traveling experience a comfortable and memorable one. Thanks so much for your shoutout and for choosing Delta! \ud83d\ude0a",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "TIER0_CRITICAL_EMERGENCY",
+    "human_rationale": "Critical priority indicator detected (wheelchair); involves passenger vulnerability, medical urgency, ADA mandate, or legal liability.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_081",
+    "thread_id": "delta_thread_297447",
+    "text": "@Delta Five empty gates at MCO labeled Delta and we have to wait for an aircraft to move? #fail",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> That is usually the case when an aircraft arrive early. My apology for any inconvenience.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_082",
+    "thread_id": "delta_thread_61207",
+    "text": "Help this baby get his elephant!! LAX-BOS 10/31 @Delta <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> File reference Numbers can be obtained from the Baggage Service Center. <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_083",
+    "thread_id": "delta_thread_435261",
+    "text": "@Delta What should I do if I am going to be just short of MQD for my next Medallion status by the end of the year?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> There is also Amex SkyMiles member exception. Please see this link for more: <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_084",
+    "thread_id": "delta_thread_63324",
+    "text": "@Delta 2462 First Class. Be embarrassed by the buffalo chicken salad. Wanted to switch - and I\u2019m told you\u2019re all out??? #Ridiculous",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We sincerely apologize for your disappointment. We always strive to create a positive customer experience.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Open-ended or complex conversational context with ambiguous intent; human verification recommended.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_085",
+    "thread_id": "delta_thread_100261",
+    "text": "Where do you like to travel during #winter holidays?",
+    "actual_historical_reply": "Where do you like to travel during #winter holidays?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_086",
+    "thread_id": "delta_thread_490850",
+    "text": "@Delta do yal fly out of Alaska?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We sure do. We fly into and out of Fairbanks (FAI) and Anchorage (ANC).",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_087",
+    "thread_id": "delta_thread_511875",
+    "text": "Thank you @Delta and NYC team for the Porsche ride. Great start for vacation!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> You bet, Jason! Glad we could help!",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_088",
+    "thread_id": "delta_thread_370615",
+    "text": "@Delta please can you provide number I need to call to book delta comfort on flight to nyc from uk thank u",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Sure, our reservations number is <PHONE_NUMBER>. They will be able to help.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.599324"
+  },
+  {
+    "id": "GOLD_089",
+    "thread_id": "delta_thread_36753",
+    "text": "Hey @Delta when is <FLIGHT_NUM:DL9933> actually leaving TLS?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I wish to express my sincere apology for the delay Jeffrey. The flight will be departing at 3:15pm.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_090",
+    "thread_id": "delta_thread_260913",
+    "text": "Just about to board a flight home from Detroit...phone rings and it's @Delta airlines saying they finally found my luggage #thanks \ud83d\ude33",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I hope you will allow us a chance to regain your trust for your future travel needs.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_091",
+    "thread_id": "delta_thread_371919",
+    "text": "@Delta hey where is the TV located for my seats? 757-200 <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Please let us know if there's anything else we can help you with at this time.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_092",
+    "thread_id": "delta_thread_260494",
+    "text": "Hey @Delta, thanks for being just the absolute worst",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Oh no! We never want to hear this. Is there something I can assist you with?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_093",
+    "thread_id": "delta_thread_259011",
+    "text": "@Delta Hi.. I have a question about my flight.. any help plz??",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello Ahmed. Please follow/DM your <PNR_CONFIRMATION_CODE> here. *ACJ <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_094",
+    "thread_id": "delta_thread_100261",
+    "text": "Where do you like to travel during #winter holidays?",
+    "actual_historical_reply": "Where do you like to travel during #winter holidays?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_095",
+    "thread_id": "delta_thread_281987",
+    "text": "T-Mobile taking care of me again. This time on a @Delta flight. Thanks for the free one-hour Wi-Fi #TMobileWingman",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Edgar. Now you can stay connected to friends, family and colleagues while on-board with Free Messaging courtesy of Delta.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_096",
+    "thread_id": "delta_thread_207018",
+    "text": "Where is your weekend taking you? <SHORT_LINK>",
+    "actual_historical_reply": "Where is your weekend taking you? <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_097",
+    "thread_id": "delta_thread_61286",
+    "text": "@Delta Thank you! Got me on an earlier #PHX to #MSP flight to get me home 2 my tribe \ud83d\udc97\u2708\ufe0f #lovedelta #bethenergyconsulting #travelingmama",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello Beth! So glad to hear this! Thank you for flying with us! We look forward to seeing you onboard soon!",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_098",
+    "thread_id": "delta_thread_448916",
+    "text": "Just landed in Hong Kong and made diamond with that flight. @Delta thank you! <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Congratulations Spyro on making Diamond status! Thank you for your loyalty.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.600351"
+  },
+  {
+    "id": "GOLD_099",
+    "thread_id": "delta_thread_410616",
+    "text": "Delta 2415 will it be canceled? Please let me know <CUSTOMER_HANDLE> @Delta",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Joe. <FLIGHT_NUM:DL2415> is scheduled to operate on time. \ud83d\ude03",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_100",
+    "thread_id": "delta_thread_12063",
+    "text": "Had to make a pit stop for quick plane fix but they fed us pizza while we waited \ud83c\udf55\ud83c\udf55Thanks @Delta! #ineedmorewinethough \ud83d\ude02\ud83d\ude02",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello, Nicole. Glad we exceeded your expectations today.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_101",
+    "thread_id": "delta_thread_339200",
+    "text": "@Delta can I take my iPad on the plane to Spain ?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello, there. Pls follow/DM your confirmation or ticket number to take a look. *AFM <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_102",
+    "thread_id": "delta_thread_302674",
+    "text": "@Delta can I use miles to upgrade my ticket/seat?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello. I'd be happy to take a look into this for you. Pls share your conf. nbr via the link below for review. *AFN <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_103",
+    "thread_id": "delta_thread_370648",
+    "text": "Thanks @Delta, you are always so reliable.... never fly with them",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Sarah, I am sorry if we let you down. Is there anything I can do to help?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_104",
+    "thread_id": "delta_thread_166802",
+    "text": "Thank you for the smoothest holiday travel! Major kudos to @Delta <CUSTOMER_HANDLE> <CUSTOMER_HANDLE> #goldmedallion #thanksgiving #friendsAndFamily",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Thanks for the kudos, Jana! We'll be sure to share your kind words of praise w/our People. Thanks for choosing Delta!",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.601758"
+  },
+  {
+    "id": "GOLD_105",
+    "thread_id": "delta_thread_121181",
+    "text": "@Delta I lost my ID on my flight to NOLA for Thanksgiving...how do i get home? SOS",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> You may also contact our New Orleans Airport Lost and Found Team at <PHONE_NUMBER>, to see if it has been turned in. \u200b",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.602756"
+  },
+  {
+    "id": "GOLD_106",
+    "thread_id": "delta_thread_265675",
+    "text": "<CUSTOMER_HANDLE> Hi Robbie. What is the flight number and I'll be glad to check it. Thanks.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Robbie. What is the flight number and I'll be glad to check it. Thanks.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.602756"
+  },
+  {
+    "id": "GOLD_107",
+    "thread_id": "delta_thread_218465",
+    "text": "@Delta I forgot my username and password. Idea for me?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hey, Howard. Did you forget your username and password for your SkyMiles acct?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.602756"
+  },
+  {
+    "id": "GOLD_108",
+    "thread_id": "delta_thread_100261",
+    "text": "Where do you like to travel during #winter holidays?",
+    "actual_historical_reply": "Where do you like to travel during #winter holidays?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.602756"
+  },
+  {
+    "id": "GOLD_109",
+    "thread_id": "delta_thread_488949",
+    "text": "@Delta Yolanda Johnson in Customer Service is my HERO of the day! Thanks again",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Awesome! Thanks so much for the shout out Anthony. Way to go Yolanda! #KeepClimbing",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.602756"
+  },
+  {
+    "id": "GOLD_110",
+    "thread_id": "delta_thread_304982",
+    "text": "<CUSTOMER_HANDLE> articles left on plane. what to do? help please.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> Hi there, sorry to hear that. To assist us, please fill out our lost item form here. <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.602756"
+  },
+  {
+    "id": "GOLD_111",
+    "thread_id": "delta_thread_330502",
+    "text": "Shout out to @Delta for taking care of my mom as she traveled from MUSC to The James Cancer Center yesterday. It means so much to us.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Thank you and your family for taking us along for your journey. We look forward to you flying with us in the future. \u2708",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_112",
+    "thread_id": "delta_thread_440828",
+    "text": "Huge thank you to @Delta in Madison, WI for helping our colleagues get back home to Holland after we were in an accident and missed flights!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We're elated to hear of you positive flight experience. Thank you for flying with us.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_113",
+    "thread_id": "delta_thread_97783",
+    "text": "@Delta trying to purchase a mileage booster for my flight this morning but the service is showing as unavailable. Any help would be appreciated. thanks.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> It looks like there was an issue with the app today from about 9 AM to about 11 AM. The issue is now resolved and should no longer pose a problem. I hope this is helpful, Riley.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_114",
+    "thread_id": "delta_thread_403159",
+    "text": "Thank you @Delta for canceling my flight for December",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> So sorry! If you would please message your confirmation, I'll be happy to look into it for you.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_115",
+    "thread_id": "delta_thread_225669",
+    "text": "@Delta can you see if I can switch to <FLIGHT_NUM:DL4740> tomorrow? (<PNR_CONFIRMATION_CODE>)",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I will certainly take a look.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_116",
+    "thread_id": "delta_thread_265065",
+    "text": "<CUSTOMER_HANDLE> Hi. Do you have a claim number given to you when your bags were reported lost? Please DM. Thanks. *TMS <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi. Do you have a claim number given to you when your bags were reported lost? Please DM. Thanks. *TMS <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_117",
+    "thread_id": "delta_thread_513093",
+    "text": "@Delta, what\u2019s timing on SkyClub renovation at DCA? What a mess!!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Pam. I'm so sorry for the inconvenience this may have caused. We do appreciate your patience.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_118",
+    "thread_id": "delta_thread_130430",
+    "text": "@Delta I lost my wallet on <FLIGHT_NUM:DL1639> from SAN-ATL on 11/22. My name is Lila Weiss. My ID is in it so you can verify it is mine. All my cards in it, etc. Please help me find this! Thank you.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I'm so sorry to hear about your lost item. Could you please, follow/DM your <PNR_CONFIRMATION_CODE>?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_119",
+    "thread_id": "delta_thread_425884",
+    "text": "@Delta however, I can't pick a seat? What does this mean?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> The seat will be assigned by a gate agent. Please DM the <PNR_CONFIRMATION_CODE>. *TDH <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_120",
+    "thread_id": "delta_thread_100261",
+    "text": "Where do you like to travel during #winter holidays?",
+    "actual_historical_reply": "Where do you like to travel during #winter holidays?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_121",
+    "thread_id": "delta_thread_277359",
+    "text": "@Delta - Do you have an idea when you will add more daily flights to STT from airports other than ATL? Thanks! #stjohn #virginislands",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We don't have a specific date on when the flight schedules may change into STT but once we do, it will be advertised.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_122",
+    "thread_id": "delta_thread_499374",
+    "text": "THANK YOU @Delta for finally trying to fix your boarding process!! Please add these Zone \u201clanes\u201d to as many airports as possible!! #deltadoesitright #nomoreboardingcluster #waityourturn <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Happy to hear you're enjoying our test boarding process, Lexie. If successful, perhaps we will roll it out to more airports.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_123",
+    "thread_id": "delta_thread_108375",
+    "text": "Happy \ud83e\udd83 Day, @Delta! I have tight connection in AMS tomorrow (<FLIGHT_NUM:DL0138> to <FLIGHT_NUM:DL7532>). Anything you can do to help out a #DiamondMedallion make his flight? Thanks for making this holiday week great for so many people!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> After looking at your reservation, I am showing this is how the flight is sold, therefore, if any changes are made, it may be a charge.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_124",
+    "thread_id": "delta_thread_100261",
+    "text": "Where do you like to travel during #winter holidays?",
+    "actual_historical_reply": "Where do you like to travel during #winter holidays?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_125",
+    "thread_id": "delta_thread_454723",
+    "text": "@Delta hi- looking to change a $19 upgrade on future flight to a $25. It didn't look like it would bill me for the difference. Thanks.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Jamison. Thank you for reaching out to us via Twitter. It must be your lucky day! \ud83d\ude0a",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_126",
+    "thread_id": "delta_thread_243413",
+    "text": "@Delta Thank U 2 BRIDGETTE at the SkyClub A17 in <CUSTOMER_HANDLE> for the POSITIVE attitude n hard work, n most of all, the Smile! #itsagoodday \ud83d\ude03",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> Way to go Bridgette! Thanks so much for the shout out Scott! We truly appreciate your loyalty! #KeepClimbing",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_127",
+    "thread_id": "delta_thread_207018",
+    "text": "Where is your weekend taking you? <SHORT_LINK>",
+    "actual_historical_reply": "Where is your weekend taking you? <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_128",
+    "thread_id": "delta_thread_497823",
+    "text": "@Delta Created Twitter account to thank David Held JFK-T2 for exceptional service! Literally ran to help us make flight. Missed flight but he stuck with us to help get other flight/hotel/snacks all during his lunch. Cracked his phone as he ran to help. A+ Employee #AboveAndBeyond <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello, Dallin! Looks like he earned his wings today! Please DM your confirmation# and I will forward this to his Supervisor.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.603758"
+  },
+  {
+    "id": "GOLD_129",
+    "thread_id": "delta_thread_207018",
+    "text": "Where is your weekend taking you? <SHORT_LINK>",
+    "actual_historical_reply": "Where is your weekend taking you? <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_130",
+    "thread_id": "delta_thread_207018",
+    "text": "Where is your weekend taking you? <SHORT_LINK>",
+    "actual_historical_reply": "Where is your weekend taking you? <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_131",
+    "thread_id": "delta_thread_106515",
+    "text": "@Delta Hi. If I wanted to be standby for an earlier flight, do I let the Delta ticket agent know when I\u2019m checking in? (Friday 12/1 JFK - DCA 8:55pm) Don\u2019t know the process. Thanks.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> You can do that. However, I can handle that for you if you contact me via DM, using the following link. *ASK <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_132",
+    "thread_id": "delta_thread_183859",
+    "text": "@Delta on hold 30 minutes... and counting really?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Ashley. We are experiencing higher than normal call volume due to weather related cancellations and delays.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_133",
+    "thread_id": "delta_thread_112171",
+    "text": "I\u2019m thankful for friends and family always. And in 2017 I\u2019m also thankful for : <CUSTOMER_HANDLE> <CUSTOMER_HANDLE> <CUSTOMER_HANDLE> @Delta <CUSTOMER_HANDLE> \ud83d\ude4f\ud83c\udffc",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Mike. I am happy to see we made the list! We are thankful for you as well. Happy Thanksgiving!",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_134",
+    "thread_id": "delta_thread_200870",
+    "text": "@Delta wanted to thank Delta for allowing my wife and I to get a flight back from Vegas early after the tragedy with no charge. Classy.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We are always here to assist.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_135",
+    "thread_id": "delta_thread_207018",
+    "text": "Where is your weekend taking you? <SHORT_LINK>",
+    "actual_historical_reply": "Where is your weekend taking you? <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_136",
+    "thread_id": "delta_thread_402695",
+    "text": "@Delta just wanted to give a HUGE shout out to this amazing company! Outstanding crews and customer service! Well done\ud83d\ude0a",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello Amy! Thank you very much for your kind words! We sincerely appreciate it, and thank you for flying with Delta!",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_137",
+    "thread_id": "delta_thread_318685",
+    "text": "@Delta - called b4 booking to confirm baggage fees were waived to STT and was charged the fees anyway. 2 bags of hurricane supplies. #Irma",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Jessica, Sorry for any miscommunication. Please follow/DM your <PNR_CONFIRMATION_CODE> so I can review your reservation.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "BAGGAGE_AND_CARGO",
+    "human_rationale": "Standard static policy question regarding baggage dimensions or fee schedule; resolvable via retrieval macro.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_138",
+    "thread_id": "delta_thread_469588",
+    "text": "@Delta will you please process my flight to and from MOB/SAN on 20-22Nov? <PNR_CONFIRMATION_CODE> I'm 11,000 from diamond status. Thanks.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Nichole. I don't quite understand your message. Do you need assistance claiming miles from this trip?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.605264"
+  },
+  {
+    "id": "GOLD_139",
+    "thread_id": "delta_thread_223290",
+    "text": "@Delta left my bag...thanks guys, great job! \ud83d\udc4d\ud83c\udffe",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi there. I am so sorry to hear. Were you able to file a claim at the airport regarding your delayed items?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606272"
+  },
+  {
+    "id": "GOLD_140",
+    "thread_id": "delta_thread_453543",
+    "text": "@Delta so we the drink vouchers discontinued when you hit platinum/diamond?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Eric. All Diamond and Platinum Medallion members will receive drink vouchers digitally. Did you not get your drink vouchers?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606272"
+  },
+  {
+    "id": "GOLD_141",
+    "thread_id": "delta_thread_415854",
+    "text": "<CUSTOMER_HANDLE> #thankyou @Delta .... get your act together . You're a disaster .",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Let us know if you need our assistance, Beth.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606272"
+  },
+  {
+    "id": "GOLD_142",
+    "thread_id": "delta_thread_1129931",
+    "text": "<CUSTOMER_HANDLE> Hi Mark, my apologies regarding removing you from the line. Sky Priority is for boarding purposes only. Thank you so much for your... 1/2",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Mark, my apologies regarding removing you from the line. Sky Priority is for boarding purposes only. Thank you so much for your... 1/2",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606272"
+  },
+  {
+    "id": "GOLD_143",
+    "thread_id": "delta_thread_309989",
+    "text": "@Delta I get delayedflights but the way you handled this one was awful, enough to were I will fly anything but delta, thanks for bad service",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We are continuously striving to provide the best service, thank you for sharing your feedback.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606272"
+  },
+  {
+    "id": "GOLD_144",
+    "thread_id": "delta_thread_425902",
+    "text": "@Delta #<FLIGHT_NUM:DL117> already has 3 hours delay. Is the #aircraft faulty?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hello. Apologies for the delay. Our team should be getting you going shortly. We appreciate your patience.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606272"
+  },
+  {
+    "id": "GOLD_145",
+    "thread_id": "delta_thread_115386",
+    "text": "@Delta here we are again. Just another day with a delay and mechanical issues. Is this beer on you? Happy Thanksgiving! <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Micah. I sincerely regret the frustration we've caused you. Please share your confirmation code or ticket number via this link to learn more. *TKR <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_146",
+    "thread_id": "delta_thread_266541",
+    "text": "@Delta do you guys have a survey I can fill out about my recent trip. Took first class and was not happy with the experience #thanks",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Very sorry to hear we did not meet your expectations, Dwayne. You are welcome to voice your concerns here or with our Customer Care... 1/2",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_147",
+    "thread_id": "delta_thread_427443",
+    "text": "At gate 1min after doors close because of <CUSTOMER_HANDLE> #incompetence . 20min wait for inspection of an apple. Thanks @Delta for #nevermakinguswait",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We hope you can understand that we have no control over TSA procedures. We are two separate entities. Thank you for flying Delta!",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_148",
+    "thread_id": "delta_thread_108375",
+    "text": "Happy \ud83e\udd83 Day, @Delta! I have tight connection in AMS tomorrow (<FLIGHT_NUM:DL0138> to <FLIGHT_NUM:DL7532>). Anything you can do to help out a #DiamondMedallion make his flight? Thanks for making this holiday week great for so many people!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> After looking at your reservation, I am showing this is how the flight is sold, therefore, if any changes are made, it may be a charge.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_149",
+    "thread_id": "delta_thread_157146",
+    "text": "Does @Delta have Black Friday? To get the fuck out of Michigan?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hey there Jake, please visit our website for Black Friday specials: <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_150",
+    "thread_id": "delta_thread_418844",
+    "text": "@Delta Is your booking and website down??",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> Hi, Julia. For assistance, please follow/DM your <PNR_CONFIRMATION_CODE>. *AMV <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_151",
+    "thread_id": "delta_thread_50190",
+    "text": "@Delta why is <FLIGHT_NUM:DL6308> from DCA to RDU delayed?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi Michelle, I am showing that flight is delayed because they are waiting for the inbound aircraft. I'm very sorry for the delay.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_152",
+    "thread_id": "delta_thread_207018",
+    "text": "Where is your weekend taking you? <SHORT_LINK>",
+    "actual_historical_reply": "Where is your weekend taking you? <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_153",
+    "thread_id": "delta_thread_219095",
+    "text": "big thanks to @Delta for helping me get home sooner! so seamless + lovely.",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> There is no place like home, Teri. \ud83d\ude04",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_154",
+    "thread_id": "delta_thread_100261",
+    "text": "Where do you like to travel during #winter holidays?",
+    "actual_historical_reply": "Where do you like to travel during #winter holidays?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_155",
+    "thread_id": "delta_thread_100261",
+    "text": "Where do you like to travel during #winter holidays?",
+    "actual_historical_reply": "Where do you like to travel during #winter holidays?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_156",
+    "thread_id": "delta_thread_519946",
+    "text": "<CUSTOMER_HANDLE> Can you follow for a DM?",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Absolutely. Pls follow/DM your confirmation or ticket number. *AFM <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.606781"
+  },
+  {
+    "id": "GOLD_157",
+    "thread_id": "delta_thread_389419",
+    "text": "@Delta When will the Skymiles marketplace be back on-line? (<SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I am so sorry for the inconvenience. You can try back in a few or reach out to the number given.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.607834"
+  },
+  {
+    "id": "GOLD_158",
+    "thread_id": "delta_thread_388084",
+    "text": "Thanks @Delta for the 2 1/2h delayed! (@ John F. Kennedy International Airport in Queens, NY) <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I sincerely apologize for the inconvenience with the delayed flight. Let us know if you need assistance with rebooking. Thank you for",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.607834"
+  },
+  {
+    "id": "GOLD_159",
+    "thread_id": "delta_thread_326258",
+    "text": "Again @Delta what's with the #CustomerService ? Smh",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hi, Kim. How may I assist?",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Short informational inquiry with neutral sentiment; safe for automated retrieval response.",
+    "labeled_at": "2026-09-10T09:48:30.607834"
+  },
+  {
+    "id": "GOLD_160",
+    "thread_id": "delta_thread_124894",
+    "text": "Happy Thanksgiving to the US from Cleveland! Thank you @Delta for the great flight! \ud83d\udcf8 by\u2026 <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> You are very welcome. Thanks for flying with us. \u2708",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Positive brand appreciation or compliment with no customer issue or operational ask; automated acknowledgment is sufficient.",
+    "labeled_at": "2026-09-10T09:48:30.607834"
   }
 ]

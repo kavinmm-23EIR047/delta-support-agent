@@ -1,34 +1,77 @@
 {
-  "total_cases_evaluated": 50,
-  "cohens_kappa": 0.7596,
-  "agreement_interpretation": "Substantial Agreement (0.61 - 0.80 Range)",
-  "detailed_disagreement_case_studies": [
+  "total_cases_evaluated": 15,
+  "cohens_kappa": -0.015,
+  "agreement_interpretation": "Fair / Weak Agreement",
+  "significant_disagreements_count": 3,
+  "real_disagreement_cases": [
     {
-      "id": "DIS_01",
-      "query": "@Delta 3 hours on tarmac at ATL, no water offered, missed connection. Where is the supervisor?",
-      "response": "<CUSTOMER_HANDLE> We are deeply sorry for the tarmac delay at ATL. Please speak to the Delta gate agent at Concourse B or DM your confirmation code. *CS",
-      "human_rating": "SATISFACTORY",
-      "judge_rating": "EXCELLENT",
-      "human_rationale": "Human noted: Reply gave standard concourse location but failed to acknowledge the DOT tarmac rule violation regarding water distribution.",
-      "judge_rationale": "Judge noted: High empathy, mentioned concourse gate agent and DM channel."
+      "case_id": "JUDGE_CASE_001",
+      "thread_id": "delta_thread_412376",
+      "query": "Wow...horrific customer service to have upgrade cleared than taken away by @Delta to give to someone else!?!?",
+      "system_reply": "<CUSTOMER_HANDLE> Hey there. I am very sorry to hear about this. Do you mind sharing your <PNR_CONFIRMATION_CODE> via DM, please?",
+      "human_scores": {
+        "factual_grounding": 3.0,
+        "safety_compliance": 2.0,
+        "actionability": 3.0,
+        "tone_empathy": 5.0
+      },
+      "human_overall_score": 2.95,
+      "judge_scores": {
+        "factual_grounding": 4.8,
+        "safety_compliance": 5.0,
+        "actionability": 4.8,
+        "tone_empathy": 4.7,
+        "overall_score": 4.86
+      },
+      "delta_score": 1.91,
+      "human_notes": "",
+      "scored_at": "2026-09-10T09:10:31.959475"
     },
     {
-      "id": "DIS_02",
-      "query": "@Delta Is flight DL889 on time today?",
-      "response": "<CUSTOMER_HANDLE> DL889 is currently on schedule for on-time departure at 4:15 PM from Gate B12. *CS",
-      "human_rating": "EXCELLENT",
-      "judge_rating": "SATISFACTORY",
-      "human_rationale": "Human noted: Perfect, exact, zero-fluff answer with gate and time.",
-      "judge_rationale": "Judge noted: Lacked greeting or expression of appreciation for flying Delta."
+      "case_id": "JUDGE_CASE_014",
+      "thread_id": "delta_thread_429183",
+      "query": "<CUSTOMER_HANDLE> Good morning, Steven. I'm not sure if you are still following us. Please DM us for a private message.",
+      "system_reply": "<CUSTOMER_HANDLE> Good morning, Steven. I'm not sure if you are still following us. Please DM us for a private message.",
+      "human_scores": {
+        "factual_grounding": 2.0,
+        "safety_compliance": 1.0,
+        "actionability": 2.0,
+        "tone_empathy": 3.0
+      },
+      "human_overall_score": 1.8,
+      "judge_scores": {
+        "factual_grounding": 4.8,
+        "safety_compliance": 5.0,
+        "actionability": 4.8,
+        "tone_empathy": 3.0,
+        "overall_score": 4.6
+      },
+      "delta_score": 2.8,
+      "human_notes": "",
+      "scored_at": "2026-09-10T10:04:46.205473"
     },
     {
-      "id": "DIS_03",
-      "query": "@Delta Can I switch to tomorrow morning without change fee because of snow at BOS?",
-      "response": "<CUSTOMER_HANDLE> Please check <DELTA_OFFICIAL_URL> for active Boston weather waivers. If your travel dates match, changes are fee-waived. *CS",
-      "human_rating": "EXCELLENT",
-      "judge_rating": "EXCELLENT",
-      "human_rationale": "Accurate self-service verification link provided.",
-      "judge_rationale": "Grounding in verified weather waiver portal."
+      "case_id": "JUDGE_CASE_015",
+      "thread_id": "delta_thread_248272",
+      "query": "Still stuck in Atlanta. @Delta Such a sad start to such a great day. Whole day of vacay almost gone",
+      "system_reply": "<CUSTOMER_HANDLE> Hi Laura. Do you need assistance with your flight?",
+      "human_scores": {
+        "factual_grounding": 3.0,
+        "safety_compliance": 2.0,
+        "actionability": 2.0,
+        "tone_empathy": 1.0
+      },
+      "human_overall_score": 2.15,
+      "judge_scores": {
+        "factual_grounding": 4.8,
+        "safety_compliance": 5.0,
+        "actionability": 2.0,
+        "tone_empathy": 4.7,
+        "overall_score": 4.29
+      },
+      "delta_score": 2.14,
+      "human_notes": "",
+      "scored_at": "2026-09-10T10:04:52.984655"
     }
   ]
 }

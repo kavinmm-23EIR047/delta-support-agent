@@ -1,22 +1,36 @@
 {
-  "total_gold_samples": 245,
-  "blind_audit_sample_size": 49,
-  "intra_annotator_agreement_rate": 0.9796,
-  "intra_annotator_cohens_kappa": 0.9586,
-  "drift_cases_count": 1,
+  "total_gold_samples": 160,
+  "blind_audit_sample_size": 32,
+  "intra_annotator_agreement_rate": 0.4688,
+  "intra_annotator_cohens_kappa": 0.0355,
+  "drift_cases_count": 17,
   "drift_case_examples": [
     {
-      "id": "TIER0_208",
-      "query": "@Delta Fraudulent login detected on my SkyMiles profile from unknown IP. Please freeze transactions. Flight <FLIGHT_NUM:DL702>",
-      "original_label": "ESCALATE",
-      "reannotated_label": "SELF_SERVICE",
-      "root_cause_of_drift": "Subjective threshold boundary on customer agitation vs self-service capability."
+      "id": "GOLD_098",
+      "text": "Just landed in Hong Kong and made diamond with that flight. @Delta thank you! <SHORT_LINK>",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_154",
+      "text": "Where do you like to travel during #winter holidays?",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
+    },
+    {
+      "id": "GOLD_136",
+      "text": "@Delta just wanted to give a HUGE shout out to this amazing company! Outstanding crews and customer service! Well done\ud83d\ude0a",
+      "original_escalate": 0,
+      "blind_relabel_escalate": 1,
+      "is_consistent": false
     }
   ],
   "the_three_headline_illusions": {
     "illusion_1_label_noise_ceiling": {
       "title": "The Bayes Error / Human Label Noise Ceiling",
-      "explanation": "Our system reported a 96.0% F1 headline metric. However, human intra-annotator consistency on identical queries is 98.0% (Kappa=0.9586). Any model reporting > 94% F1 on uncurated customer support is partially overfitting to human annotator noise rather than capturing a cleaner truth.",
+      "explanation": "Our system reported a 96.0% F1 headline metric. However, human intra-annotator consistency on identical queries is 46.9% (Kappa=0.0355). Any model reporting > 94% F1 on uncurated customer support is partially overfitting to human annotator noise rather than capturing a cleaner truth.",
       "bound": "Theoretical Upper Performance Bound ~ 92-94% F1"
     },
     "illusion_2_prevalence_shift": {
