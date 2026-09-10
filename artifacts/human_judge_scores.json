@@ -1,0 +1,209 @@
+[
+  {
+    "case_id": "JUDGE_CASE_001",
+    "thread_id": "delta_thread_412376",
+    "query": "Wow...horrific customer service to have upgrade cleared than taken away by @Delta to give to someone else!?!?",
+    "system_reply": "<CUSTOMER_HANDLE> Hey there. I am very sorry to hear about this. Do you mind sharing your <PNR_CONFIRMATION_CODE> via DM, please?",
+    "human_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 2.0,
+      "actionability": 3.0,
+      "tone_empathy": 5.0
+    },
+    "human_overall_score": 2.95,
+    "judge_scores": {
+      "factual_grounding": 4.8,
+      "safety_compliance": 5.0,
+      "actionability": 4.8,
+      "tone_empathy": 4.7,
+      "overall_score": 4.86
+    },
+    "delta_score": 1.91,
+    "human_notes": "",
+    "scored_at": "2026-09-10T09:10:31.959475"
+  },
+  {
+    "case_id": "JUDGE_CASE_002",
+    "thread_id": "delta_thread_255617",
+    "query": "What happens if you book a connecting flight but only show up for the 2nd leg? Are you considered a no-show &amp; reservation cancelled? @Delta",
+    "system_reply": "<CUSTOMER_HANDLE> If the first leg is not flown, the reservation will be cancelled.",
+    "human_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 2.0,
+      "actionability": 5.0,
+      "tone_empathy": 4.0
+    },
+    "human_overall_score": 3.2,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 3.0,
+      "overall_score": 3.5
+    },
+    "delta_score": 0.3,
+    "human_notes": "",
+    "scored_at": "2026-09-10T09:10:41.238287"
+  },
+  {
+    "case_id": "JUDGE_CASE_003",
+    "thread_id": "delta_thread_492525",
+    "query": "@Delta I need to change my flight, and 2 others I booked with, to get on an earlier flight",
+    "system_reply": "<CUSTOMER_HANDLE> May I have your <PNR_CONFIRMATION_CODE>? Please DM for privacy.",
+    "human_scores": {
+      "factual_grounding": 4.0,
+      "safety_compliance": 3.0,
+      "actionability": 5.0,
+      "tone_empathy": 3.0
+    },
+    "human_overall_score": 3.7,
+    "judge_scores": {
+      "factual_grounding": 4.8,
+      "safety_compliance": 5.0,
+      "actionability": 4.8,
+      "tone_empathy": 3.0,
+      "overall_score": 4.6
+    },
+    "delta_score": 0.9,
+    "human_notes": "4",
+    "scored_at": "2026-09-10T09:10:48.528308"
+  },
+  {
+    "case_id": "JUDGE_CASE_004",
+    "thread_id": "delta_thread_207018",
+    "query": "Where is your weekend taking you? <SHORT_LINK>",
+    "system_reply": "Where is your weekend taking you? <SHORT_LINK>",
+    "human_scores": {
+      "factual_grounding": 5.0,
+      "safety_compliance": 3.0,
+      "actionability": 3.0,
+      "tone_empathy": 4.0
+    },
+    "human_overall_score": 3.75,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 4.8,
+      "tone_empathy": 3.0,
+      "overall_score": 4.06
+    },
+    "delta_score": 0.31,
+    "human_notes": "5",
+    "scored_at": "2026-09-10T09:10:52.098014"
+  },
+  {
+    "case_id": "JUDGE_CASE_005",
+    "thread_id": "delta_thread_389419",
+    "query": "@Delta When will the Skymiles marketplace be back on-line? (<SHORT_LINK>",
+    "system_reply": "<CUSTOMER_HANDLE> I don'tknow when it will be back online.",
+    "human_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 4.0,
+      "actionability": 5.0,
+      "tone_empathy": 3.0
+    },
+    "human_overall_score": 3.75,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 3.0,
+      "overall_score": 3.5
+    },
+    "delta_score": 0.25,
+    "human_notes": "2",
+    "scored_at": "2026-09-10T09:10:56.661313"
+  },
+  {
+    "case_id": "JUDGE_CASE_006",
+    "thread_id": "delta_thread_16529",
+    "query": "Thanks for the damaged suitcase!!! @Delta \ud83d\ude20\ud83d\ude20 <SHORT_LINK>",
+    "system_reply": "<CUSTOMER_HANDLE> Oh no, I'm very sorry to hear about this. Please speak with our airport Baggage Service team for immediate assistance.",
+    "human_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 3.0,
+      "tone_empathy": 3.0
+    },
+    "human_overall_score": 3.7,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 4.7,
+      "overall_score": 3.75
+    },
+    "delta_score": 0.05,
+    "human_notes": "4",
+    "scored_at": "2026-09-10T09:11:00.837370"
+  },
+  {
+    "case_id": "JUDGE_CASE_007",
+    "thread_id": "delta_thread_496205",
+    "query": "Our @Delta flight was delayed for 2 hours+ in SLC and the crew has been absolutely wonderful!",
+    "system_reply": "<CUSTOMER_HANDLE> Hello, Sean! Thanks for the shout out! Sorry for the delay! I am glad to see that everything was taken care of by our crew.",
+    "human_scores": {
+      "factual_grounding": 4.0,
+      "safety_compliance": 2.0,
+      "actionability": 3.0,
+      "tone_empathy": 2.0
+    },
+    "human_overall_score": 2.8,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 4.7,
+      "overall_score": 3.75
+    },
+    "delta_score": 0.95,
+    "human_notes": "3",
+    "scored_at": "2026-09-10T09:11:05.865235"
+  },
+  {
+    "case_id": "JUDGE_CASE_008",
+    "thread_id": "delta_thread_30095",
+    "query": "@Delta booking agent's mistake and despite the highest status, i don't even show up on the upgrade list.",
+    "system_reply": "<CUSTOMER_HANDLE> Thank you for tweeting. Please let me know if you need any assistance via twitter.",
+    "human_scores": {
+      "factual_grounding": 4.0,
+      "safety_compliance": 5.0,
+      "actionability": 3.0,
+      "tone_empathy": 2.0
+    },
+    "human_overall_score": 3.85,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 4.7,
+      "overall_score": 3.75
+    },
+    "delta_score": 0.1,
+    "human_notes": "3",
+    "scored_at": "2026-09-10T09:11:09.486598"
+  },
+  {
+    "case_id": "JUDGE_CASE_009",
+    "thread_id": "delta_thread_414071",
+    "query": "This was Lucas before we got on the @Delta plane. This was also him on the plane. Apologies to the seat in front of us for the kicking. \ud83d\ude1c <SHORT_LINK>",
+    "system_reply": "<CUSTOMER_HANDLE> What a p[precious and beautiful picture. Thank you for sharing with us! \ud83d\ude0d",
+    "human_scores": {
+      "factual_grounding": 4.0,
+      "safety_compliance": 5.0,
+      "actionability": 4.0,
+      "tone_empathy": 3.0
+    },
+    "human_overall_score": 4.2,
+    "judge_scores": {
+      "factual_grounding": 3.0,
+      "safety_compliance": 5.0,
+      "actionability": 2.0,
+      "tone_empathy": 3.0,
+      "overall_score": 3.5
+    },
+    "delta_score": 0.7,
+    "human_notes": "2",
+    "scored_at": "2026-09-10T09:11:19.266455"
+  }
+]

@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "ROUTINE_001",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_002",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_003",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_004",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_005",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_006",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_007",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_008",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_009",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_010",
+    "text": "@Delta What time does flight <FLIGHT_NUM:DL102> arrive in Boston? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_011",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_012",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_013",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_014",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_015",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_016",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_017",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_018",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_019",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_020",
+    "text": "@Delta Can I select my seat online for my booking tomorrow? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_021",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_022",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_023",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_024",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_025",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_026",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_027",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_028",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_029",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_030",
+    "text": "@Delta Where can I find the Delta Sky Club at JFK Terminal 4? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_031",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_032",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_033",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_034",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_035",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_036",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_037",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_038",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_039",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_040",
+    "text": "@Delta How much does a second checked bag cost for domestic economy? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_041",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_042",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_043",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_044",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_045",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_046",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_047",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_048",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_049",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_050",
+    "text": "@Delta Is in-flight Wi-Fi available on flight <FLIGHT_NUM:DL450>? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_051",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_052",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_053",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_054",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_055",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_056",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_057",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_058",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_059",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_060",
+    "text": "@Delta How do I check my current SkyMiles medallion MQM balance? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_061",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_062",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_063",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_064",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_065",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_066",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_067",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_068",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_069",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_070",
+    "text": "@Delta Can I bring a carry-on bag and a backpack on Delta Comfort+? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_071",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_072",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_073",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_074",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_075",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_076",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_077",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_078",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_079",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_080",
+    "text": "@Delta What is the phone number for Delta international reservations? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_081",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_082",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_083",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_084",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_085",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_086",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_087",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_088",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_089",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_090",
+    "text": "@Delta Does Delta serve complimentary snacks on flights over 2 hours? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_091",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_092",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_093",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_094",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_095",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_096",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_097",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_098",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_099",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "ROUTINE_100",
+    "text": "@Delta Can I link two separate confirmation numbers for my family? (Booking ref <PNR_CONFIRMATION_CODE>)",
+    "ground_truth_escalate": 0,
+    "category": "ROUTINE_SELF_SERVICE",
+    "description": "Standard informational inquiry resolvable by bot/retrieval"
+  },
+  {
+    "id": "COMPLEX_101",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_102",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_103",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_104",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_105",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_106",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_107",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_108",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_109",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_110",
+    "text": "@Delta My connecting flight in Detroit was cancelled, app won't let me rebook, and I have a cruise departing in 6 hours. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_111",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_112",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_113",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_114",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_115",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_116",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_117",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_118",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_119",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_120",
+    "text": "@Delta Delta split my family onto three different flights after the schedule change without notifying us. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_121",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_122",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_123",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_124",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_125",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_126",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_127",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_128",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_129",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_130",
+    "text": "@Delta Agent at ticketing desk charged me $300 fee by mistake and told me to ask Twitter to refund it. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_131",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_132",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_133",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_134",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_135",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_136",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_137",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_138",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_139",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_140",
+    "text": "@Delta I was downgraded from First Class to middle seat in Row 34 on a 9-hour transatlantic flight. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_141",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_142",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_143",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_144",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_145",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_146",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_147",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_148",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_149",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_150",
+    "text": "@Delta My flight landed 4 hours ago but baggage carousel is broken and airport staff left the room. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_151",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_152",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_153",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_154",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_155",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_156",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_157",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_158",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_159",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_160",
+    "text": "@Delta Need emergency waiver to change my ticket date due to sudden hospitalization of family member. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_161",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_162",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_163",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_164",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_165",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_166",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_167",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_168",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_169",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "COMPLEX_170",
+    "text": "@Delta Website gave error during credit card charge, now I have 2 pending charges but no confirmation code. <CUSTOMER_HANDLE>",
+    "ground_truth_escalate": 1,
+    "category": "COMPLEX_OPERATIONAL_ESCALATION",
+    "description": "High churn risk / non-standard exception requiring human authority"
+  },
+  {
+    "id": "TIER0_171",
+    "text": "@Delta Passenger on flight <FLIGHT_NUM:DL204> is having a severe medical emergency and needs paramedics at gate immediately! Flight <FLIGHT_NUM:DL0>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_172",
+    "text": "@Delta Passenger on flight <FLIGHT_NUM:DL204> is having a severe medical emergency and needs paramedics at gate immediately! Flight <FLIGHT_NUM:DL1>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_173",
+    "text": "@Delta Passenger on flight <FLIGHT_NUM:DL204> is having a severe medical emergency and needs paramedics at gate immediately! Flight <FLIGHT_NUM:DL2>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_174",
+    "text": "@Delta Passenger on flight <FLIGHT_NUM:DL204> is having a severe medical emergency and needs paramedics at gate immediately! Flight <FLIGHT_NUM:DL3>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_175",
+    "text": "@Delta Passenger on flight <FLIGHT_NUM:DL204> is having a severe medical emergency and needs paramedics at gate immediately! Flight <FLIGHT_NUM:DL4>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_176",
+    "text": "@Delta Stuck on tarmac for 4 hours, cabin has no AC and elderly passenger fainted from heat exhaustion! Flight <FLIGHT_NUM:DL100>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_177",
+    "text": "@Delta Stuck on tarmac for 4 hours, cabin has no AC and elderly passenger fainted from heat exhaustion! Flight <FLIGHT_NUM:DL101>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_178",
+    "text": "@Delta Stuck on tarmac for 4 hours, cabin has no AC and elderly passenger fainted from heat exhaustion! Flight <FLIGHT_NUM:DL102>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_179",
+    "text": "@Delta Stuck on tarmac for 4 hours, cabin has no AC and elderly passenger fainted from heat exhaustion! Flight <FLIGHT_NUM:DL103>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_180",
+    "text": "@Delta Stuck on tarmac for 4 hours, cabin has no AC and elderly passenger fainted from heat exhaustion! Flight <FLIGHT_NUM:DL104>",
+    "ground_truth_escalate": 1,
+    "category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_181",
+    "text": "@Delta Delta violated 14 CFR Part 259 tarmac delay rule. Filing formal DOT complaint and hiring an attorney for lawsuit. Flight <FLIGHT_NUM:DL200>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_182",
+    "text": "@Delta Delta violated 14 CFR Part 259 tarmac delay rule. Filing formal DOT complaint and hiring an attorney for lawsuit. Flight <FLIGHT_NUM:DL201>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_183",
+    "text": "@Delta Delta violated 14 CFR Part 259 tarmac delay rule. Filing formal DOT complaint and hiring an attorney for lawsuit. Flight <FLIGHT_NUM:DL202>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_184",
+    "text": "@Delta Delta violated 14 CFR Part 259 tarmac delay rule. Filing formal DOT complaint and hiring an attorney for lawsuit. Flight <FLIGHT_NUM:DL203>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_185",
+    "text": "@Delta Delta violated 14 CFR Part 259 tarmac delay rule. Filing formal DOT complaint and hiring an attorney for lawsuit. Flight <FLIGHT_NUM:DL204>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_186",
+    "text": "@Delta Involuntarily denied boarding on DL801. Demanding statutory DOT cash compensation, not your voucher. Flight <FLIGHT_NUM:DL300>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_187",
+    "text": "@Delta Involuntarily denied boarding on DL801. Demanding statutory DOT cash compensation, not your voucher. Flight <FLIGHT_NUM:DL301>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_188",
+    "text": "@Delta Involuntarily denied boarding on DL801. Demanding statutory DOT cash compensation, not your voucher. Flight <FLIGHT_NUM:DL302>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_189",
+    "text": "@Delta Involuntarily denied boarding on DL801. Demanding statutory DOT cash compensation, not your voucher. Flight <FLIGHT_NUM:DL303>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_190",
+    "text": "@Delta Involuntarily denied boarding on DL801. Demanding statutory DOT cash compensation, not your voucher. Flight <FLIGHT_NUM:DL304>",
+    "ground_truth_escalate": 1,
+    "category": "LEGAL_AND_DOT_REGULATORY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_191",
+    "text": "@Delta Delta baggage team broke the battery on my motorized wheelchair. I am stranded in the terminal without mobility. Flight <FLIGHT_NUM:DL400>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_192",
+    "text": "@Delta Delta baggage team broke the battery on my motorized wheelchair. I am stranded in the terminal without mobility. Flight <FLIGHT_NUM:DL401>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_193",
+    "text": "@Delta Delta baggage team broke the battery on my motorized wheelchair. I am stranded in the terminal without mobility. Flight <FLIGHT_NUM:DL402>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_194",
+    "text": "@Delta Delta baggage team broke the battery on my motorized wheelchair. I am stranded in the terminal without mobility. Flight <FLIGHT_NUM:DL403>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_195",
+    "text": "@Delta Delta baggage team broke the battery on my motorized wheelchair. I am stranded in the terminal without mobility. Flight <FLIGHT_NUM:DL404>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_196",
+    "text": "@Delta Gate agent refused boarding to my certified guide dog in violation of ADA regulations. Flight <FLIGHT_NUM:DL500>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_197",
+    "text": "@Delta Gate agent refused boarding to my certified guide dog in violation of ADA regulations. Flight <FLIGHT_NUM:DL501>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_198",
+    "text": "@Delta Gate agent refused boarding to my certified guide dog in violation of ADA regulations. Flight <FLIGHT_NUM:DL502>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_199",
+    "text": "@Delta Gate agent refused boarding to my certified guide dog in violation of ADA regulations. Flight <FLIGHT_NUM:DL503>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_200",
+    "text": "@Delta Gate agent refused boarding to my certified guide dog in violation of ADA regulations. Flight <FLIGHT_NUM:DL504>",
+    "ground_truth_escalate": 1,
+    "category": "ADA_AND_MOBILITY_CRITICAL",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_201",
+    "text": "@Delta My SkyMiles account was hacked and 200,000 miles were stolen today. Lock my account right now! Flight <FLIGHT_NUM:DL600>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_202",
+    "text": "@Delta My SkyMiles account was hacked and 200,000 miles were stolen today. Lock my account right now! Flight <FLIGHT_NUM:DL601>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_203",
+    "text": "@Delta My SkyMiles account was hacked and 200,000 miles were stolen today. Lock my account right now! Flight <FLIGHT_NUM:DL602>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_204",
+    "text": "@Delta My SkyMiles account was hacked and 200,000 miles were stolen today. Lock my account right now! Flight <FLIGHT_NUM:DL603>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_205",
+    "text": "@Delta My SkyMiles account was hacked and 200,000 miles were stolen today. Lock my account right now! Flight <FLIGHT_NUM:DL604>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_206",
+    "text": "@Delta Fraudulent login detected on my SkyMiles profile from unknown IP. Please freeze transactions. Flight <FLIGHT_NUM:DL700>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_207",
+    "text": "@Delta Fraudulent login detected on my SkyMiles profile from unknown IP. Please freeze transactions. Flight <FLIGHT_NUM:DL701>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_208",
+    "text": "@Delta Fraudulent login detected on my SkyMiles profile from unknown IP. Please freeze transactions. Flight <FLIGHT_NUM:DL702>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_209",
+    "text": "@Delta Fraudulent login detected on my SkyMiles profile from unknown IP. Please freeze transactions. Flight <FLIGHT_NUM:DL703>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_210",
+    "text": "@Delta Fraudulent login detected on my SkyMiles profile from unknown IP. Please freeze transactions. Flight <FLIGHT_NUM:DL704>",
+    "ground_truth_escalate": 1,
+    "category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_211",
+    "text": "@Delta My 12 year old unaccompanied minor is stranded alone at gate in DTW after cancellation with no Delta rep. Flight <FLIGHT_NUM:DL800>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_212",
+    "text": "@Delta My 12 year old unaccompanied minor is stranded alone at gate in DTW after cancellation with no Delta rep. Flight <FLIGHT_NUM:DL801>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_213",
+    "text": "@Delta My 12 year old unaccompanied minor is stranded alone at gate in DTW after cancellation with no Delta rep. Flight <FLIGHT_NUM:DL802>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_214",
+    "text": "@Delta My 12 year old unaccompanied minor is stranded alone at gate in DTW after cancellation with no Delta rep. Flight <FLIGHT_NUM:DL803>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_215",
+    "text": "@Delta My 12 year old unaccompanied minor is stranded alone at gate in DTW after cancellation with no Delta rep. Flight <FLIGHT_NUM:DL804>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_216",
+    "text": "@Delta My delayed checked suitcase contains life-saving insulin. Need emergency delivery authorized in 2 hours. Flight <FLIGHT_NUM:DL900>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_217",
+    "text": "@Delta My delayed checked suitcase contains life-saving insulin. Need emergency delivery authorized in 2 hours. Flight <FLIGHT_NUM:DL901>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_218",
+    "text": "@Delta My delayed checked suitcase contains life-saving insulin. Need emergency delivery authorized in 2 hours. Flight <FLIGHT_NUM:DL902>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_219",
+    "text": "@Delta My delayed checked suitcase contains life-saving insulin. Need emergency delivery authorized in 2 hours. Flight <FLIGHT_NUM:DL903>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "TIER0_220",
+    "text": "@Delta My delayed checked suitcase contains life-saving insulin. Need emergency delivery authorized in 2 hours. Flight <FLIGHT_NUM:DL904>",
+    "ground_truth_escalate": 1,
+    "category": "VULNERABLE_PASSENGER_URGENCY",
+    "description": "Tier-0 Preemptive Safety/Legal/ADA Override"
+  },
+  {
+    "id": "DECOY_221",
+    "text": "@Delta The in-flight movie 'Lawyer on the Run' was hilarious on DL104! Great IFE selection.",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_222",
+    "text": "@Delta The in-flight movie 'Lawyer on the Run' was hilarious on DL104! Great IFE selection.",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_223",
+    "text": "@Delta The in-flight movie 'Lawyer on the Run' was hilarious on DL104! Great IFE selection.",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_224",
+    "text": "@Delta The in-flight movie 'Lawyer on the Run' was hilarious on DL104! Great IFE selection.",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_225",
+    "text": "@Delta The in-flight movie 'Lawyer on the Run' was hilarious on DL104! Great IFE selection.",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_226",
+    "text": "@Delta Your fast baggage delivery at MSP was so good it felt like magic, almost gave me a heart attack of joy!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_227",
+    "text": "@Delta Your fast baggage delivery at MSP was so good it felt like magic, almost gave me a heart attack of joy!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_228",
+    "text": "@Delta Your fast baggage delivery at MSP was so good it felt like magic, almost gave me a heart attack of joy!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_229",
+    "text": "@Delta Your fast baggage delivery at MSP was so good it felt like magic, almost gave me a heart attack of joy!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_230",
+    "text": "@Delta Your fast baggage delivery at MSP was so good it felt like magic, almost gave me a heart attack of joy!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_231",
+    "text": "@Delta Shoutout to flight attendant Sarah who is an absolute lifesaver for bringing extra coffee!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_232",
+    "text": "@Delta Shoutout to flight attendant Sarah who is an absolute lifesaver for bringing extra coffee!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_233",
+    "text": "@Delta Shoutout to flight attendant Sarah who is an absolute lifesaver for bringing extra coffee!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_234",
+    "text": "@Delta Shoutout to flight attendant Sarah who is an absolute lifesaver for bringing extra coffee!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_235",
+    "text": "@Delta Shoutout to flight attendant Sarah who is an absolute lifesaver for bringing extra coffee!",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_236",
+    "text": "@Delta Is there any medicine or first aid kit sold in Terminal 2 at Atlanta airport past security?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_237",
+    "text": "@Delta Is there any medicine or first aid kit sold in Terminal 2 at Atlanta airport past security?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_238",
+    "text": "@Delta Is there any medicine or first aid kit sold in Terminal 2 at Atlanta airport past security?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_239",
+    "text": "@Delta Is there any medicine or first aid kit sold in Terminal 2 at Atlanta airport past security?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_240",
+    "text": "@Delta Is there any medicine or first aid kit sold in Terminal 2 at Atlanta airport past security?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_241",
+    "text": "@Delta Reading the FAA guidelines for carry-on battery sizes \u2014 can I bring a 99Wh power bank?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_242",
+    "text": "@Delta Reading the FAA guidelines for carry-on battery sizes \u2014 can I bring a 99Wh power bank?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_243",
+    "text": "@Delta Reading the FAA guidelines for carry-on battery sizes \u2014 can I bring a 99Wh power bank?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_244",
+    "text": "@Delta Reading the FAA guidelines for carry-on battery sizes \u2014 can I bring a 99Wh power bank?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  },
+  {
+    "id": "DECOY_245",
+    "text": "@Delta Reading the FAA guidelines for carry-on battery sizes \u2014 can I bring a 99Wh power bank?",
+    "ground_truth_escalate": 0,
+    "category": "ADVERSARIAL_BENIGN_DECOY",
+    "description": "Benign query with surface-level trigger words"
+  }
+]

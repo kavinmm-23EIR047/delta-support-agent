@@ -1,0 +1,574 @@
+{
+  "multi_agent_handoff": [
+    {
+      "thread_id": "delta_thread_30590",
+      "root_tweet_id": 30590,
+      "num_turns": 3,
+      "customer_inquiry_text": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+      "initial_brand_reply": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+      "turns": [
+        {
+          "turn_index": 0,
+          "tweet_id": 30590,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*TJM",
+          "created_at": "Wed Nov 01 11:34:08 +0000 2017",
+          "gap_from_prev_hours": 0.0,
+          "raw_text": "@122733 Hello, of course do you have her confirmation number? Can you DM it to me? Thank you.  *TJM",
+          "scrubbed_text": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        },
+        {
+          "turn_index": 1,
+          "tweet_id": 30586,
+          "speaker": "customer",
+          "author_id": "122733",
+          "agent_signature": null,
+          "created_at": "Wed Nov 01 11:47:45 +0000 2017",
+          "gap_from_prev_hours": 0.23,
+          "raw_text": "@Delta Thanks for your reply, I sent you a private message",
+          "scrubbed_text": "@Delta Thanks for your reply, I sent you a private message",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 2,
+          "tweet_id": 30589,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*ALS",
+          "created_at": "Wed Nov 01 12:01:44 +0000 2017",
+          "gap_from_prev_hours": 0.23,
+          "raw_text": "@122733 Since your sister is already checked in, please have your sister to go to the Air France (cont)... *ALS",
+          "scrubbed_text": "<CUSTOMER_HANDLE> Since your sister is already checked in, please have your sister to go to the Air France (cont)...",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        }
+      ],
+      "metadata": {
+        "brand": "Delta",
+        "agent_signatures": [
+          "*ALS",
+          "*TJM"
+        ],
+        "num_agent_handoffs": 1,
+        "max_turn_gap_hours": 0.23,
+        "canned_reply_count": 0,
+        "canned_reply_ratio": 0.0,
+        "quality_category": "multi_agent_handoff",
+        "flags": {
+          "multi_agent_handoff": true,
+          "temporal_gap_gt_24h": false,
+          "temporal_gap_gt_48h": false,
+          "is_pure_canned_deflection": false,
+          "contains_canned_macro": false
+        },
+        "pii_scrubbed_counts": {
+          "pnrs": 1,
+          "handles": 2
+        }
+      }
+    },
+    {
+      "thread_id": "delta_thread_30590",
+      "root_tweet_id": 30590,
+      "num_turns": 3,
+      "customer_inquiry_text": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+      "initial_brand_reply": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+      "turns": [
+        {
+          "turn_index": 0,
+          "tweet_id": 30590,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*TJM",
+          "created_at": "Wed Nov 01 11:34:08 +0000 2017",
+          "gap_from_prev_hours": 0.0,
+          "raw_text": "@122733 Hello, of course do you have her confirmation number? Can you DM it to me? Thank you.  *TJM",
+          "scrubbed_text": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        },
+        {
+          "turn_index": 1,
+          "tweet_id": 30586,
+          "speaker": "customer",
+          "author_id": "122733",
+          "agent_signature": null,
+          "created_at": "Wed Nov 01 11:47:45 +0000 2017",
+          "gap_from_prev_hours": 0.23,
+          "raw_text": "@Delta Thanks for your reply, I sent you a private message",
+          "scrubbed_text": "@Delta Thanks for your reply, I sent you a private message",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 2,
+          "tweet_id": 30588,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*ALS",
+          "created_at": "Wed Nov 01 12:01:52 +0000 2017",
+          "gap_from_prev_hours": 0.24,
+          "raw_text": "@122733 counter to reissue the ticket for the flight tomorrow. *ALS",
+          "scrubbed_text": "<CUSTOMER_HANDLE> counter to reissue the ticket for the flight tomorrow.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        }
+      ],
+      "metadata": {
+        "brand": "Delta",
+        "agent_signatures": [
+          "*ALS",
+          "*TJM"
+        ],
+        "num_agent_handoffs": 1,
+        "max_turn_gap_hours": 0.24,
+        "canned_reply_count": 0,
+        "canned_reply_ratio": 0.0,
+        "quality_category": "multi_agent_handoff",
+        "flags": {
+          "multi_agent_handoff": true,
+          "temporal_gap_gt_24h": false,
+          "temporal_gap_gt_48h": false,
+          "is_pure_canned_deflection": false,
+          "contains_canned_macro": false
+        },
+        "pii_scrubbed_counts": {
+          "pnrs": 1,
+          "handles": 2
+        }
+      }
+    }
+  ],
+  "temporal_gap_gt_24h": [
+    {
+      "thread_id": "delta_thread_3837",
+      "root_tweet_id": 3837,
+      "num_turns": 3,
+      "customer_inquiry_text": "Love in the \ud83c\udf51 state ! We\u2019re happy to be on the ground to support #ATLPride. #PrideInFlight <SHORT_LINK>",
+      "initial_brand_reply": "Love in the \ud83c\udf51 state ! We\u2019re happy to be on the ground to support #ATLPride. #PrideInFlight <SHORT_LINK>",
+      "turns": [
+        {
+          "turn_index": 0,
+          "tweet_id": 3837,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": null,
+          "created_at": "Mon Oct 16 00:07:39 +0000 2017",
+          "gap_from_prev_hours": 0.0,
+          "raw_text": "Love in the \ud83c\udf51 state ! We\u2019re happy to be on the ground to support #ATLPride. #PrideInFlight https://t.co/7QC6Iq3B1U",
+          "scrubbed_text": "Love in the \ud83c\udf51 state ! We\u2019re happy to be on the ground to support #ATLPride. #PrideInFlight <SHORT_LINK>",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        },
+        {
+          "turn_index": 1,
+          "tweet_id": 3836,
+          "speaker": "customer",
+          "author_id": "116647",
+          "agent_signature": null,
+          "created_at": "Tue Oct 31 22:26:54 +0000 2017",
+          "gap_from_prev_hours": 382.32,
+          "raw_text": "@Delta Good for u!  R u eliminating SLC to LHR nonstops??",
+          "scrubbed_text": "@Delta Good for u! R u eliminating SLC to LHR nonstops??",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 2,
+          "tweet_id": 3835,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*TLT",
+          "created_at": "Tue Oct 31 23:01:32 +0000 2017",
+          "gap_from_prev_hours": 0.58,
+          "raw_text": "@116647 Hey Joan, thanks for asking. The  SLC to LHR non-stop is a seasonal route and will resume 3/24/2018. *TLT",
+          "scrubbed_text": "<CUSTOMER_HANDLE> Hey Joan, thanks for asking. The SLC to LHR non-stop is a seasonal route and will resume 3/24/2018.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        }
+      ],
+      "metadata": {
+        "brand": "Delta",
+        "agent_signatures": [
+          "*TLT"
+        ],
+        "num_agent_handoffs": 0,
+        "max_turn_gap_hours": 382.32,
+        "canned_reply_count": 0,
+        "canned_reply_ratio": 0.0,
+        "quality_category": "delayed_reentry",
+        "flags": {
+          "multi_agent_handoff": false,
+          "temporal_gap_gt_24h": true,
+          "temporal_gap_gt_48h": true,
+          "is_pure_canned_deflection": false,
+          "contains_canned_macro": false
+        },
+        "pii_scrubbed_counts": {
+          "urls": 1,
+          "handles": 1
+        }
+      }
+    },
+    {
+      "thread_id": "delta_thread_61262",
+      "root_tweet_id": 61262,
+      "num_turns": 3,
+      "customer_inquiry_text": "<FLIGHT_NUM:DL9771> arrived in Puerto Rico on Friday with supplies, NY State Troopers, and more than 100 relief workers. <SHORT_LINK>",
+      "initial_brand_reply": "<FLIGHT_NUM:DL9771> arrived in Puerto Rico on Friday with supplies, NY State Troopers, and more than 100 relief workers. <SHORT_LINK>",
+      "turns": [
+        {
+          "turn_index": 0,
+          "tweet_id": 61262,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": null,
+          "created_at": "Sat Sep 30 21:56:56 +0000 2017",
+          "gap_from_prev_hours": 0.0,
+          "raw_text": "Delta Flight 9771 arrived in Puerto Rico on Friday with supplies, NY State Troopers, and more than 100 relief workers. https://t.co/BhqHU9ewrS",
+          "scrubbed_text": "<FLIGHT_NUM:DL9771> arrived in Puerto Rico on Friday with supplies, NY State Troopers, and more than 100 relief workers. <SHORT_LINK>",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        },
+        {
+          "turn_index": 1,
+          "tweet_id": 61263,
+          "speaker": "customer",
+          "author_id": "175221",
+          "agent_signature": null,
+          "created_at": "Thu Oct 05 16:38:15 +0000 2017",
+          "gap_from_prev_hours": 114.69,
+          "raw_text": "@Delta Thank you @Delta for sending aid, answering the call, &amp; working to help #PuertoRico Humanitarian efforts. Proud to #FlyDelta",
+          "scrubbed_text": "@Delta Thank you @Delta for sending aid, answering the call, &amp; working to help #PuertoRico Humanitarian efforts. Proud to #FlyDelta",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 2,
+          "tweet_id": 249245,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*TJF",
+          "created_at": "Thu Oct 05 16:56:03 +0000 2017",
+          "gap_from_prev_hours": 0.3,
+          "raw_text": "@175221 Awww..thanks for the shout our, Dr. La Belle. It was our honor to assist.   *TJF",
+          "scrubbed_text": "<CUSTOMER_HANDLE> Awww..thanks for the shout our, Dr. La Belle. It was our honor to assist.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        }
+      ],
+      "metadata": {
+        "brand": "Delta",
+        "agent_signatures": [
+          "*TJF"
+        ],
+        "num_agent_handoffs": 0,
+        "max_turn_gap_hours": 114.69,
+        "canned_reply_count": 0,
+        "canned_reply_ratio": 0.0,
+        "quality_category": "delayed_reentry",
+        "flags": {
+          "multi_agent_handoff": false,
+          "temporal_gap_gt_24h": true,
+          "temporal_gap_gt_48h": true,
+          "is_pure_canned_deflection": false,
+          "contains_canned_macro": false
+        },
+        "pii_scrubbed_counts": {
+          "urls": 1,
+          "flights": 1,
+          "handles": 1
+        }
+      }
+    }
+  ],
+  "canned_deflection": [
+    {
+      "thread_id": "delta_thread_1863",
+      "root_tweet_id": 1863,
+      "num_turns": 2,
+      "customer_inquiry_text": "@Delta booked a code share Korean Air flight on <SHORT_LINK>; where can I find my confirmation # or ticket # for the KE portion?",
+      "initial_brand_reply": "<CUSTOMER_HANDLE> I\u2019d be delighted to assist. Please follow and DM your <PNR_CONFIRMATION_CODE>. *AFC <SHORT_LINK>",
+      "turns": [
+        {
+          "turn_index": 0,
+          "tweet_id": 1863,
+          "speaker": "customer",
+          "author_id": "116126",
+          "agent_signature": null,
+          "created_at": "Tue Oct 31 21:42:21 +0000 2017",
+          "gap_from_prev_hours": 0.0,
+          "raw_text": "@Delta booked a code share Korean Air flight on https://t.co/xFTVohudJC; where can I find my confirmation # or ticket # for the KE portion?",
+          "scrubbed_text": "@Delta booked a code share Korean Air flight on <SHORT_LINK>; where can I find my confirmation # or ticket # for the KE portion?",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 1,
+          "tweet_id": 1862,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": null,
+          "created_at": "Tue Oct 31 22:30:40 +0000 2017",
+          "gap_from_prev_hours": 0.81,
+          "raw_text": "@116126 I\u2019d be delighted to assist. Please follow and DM your confirmation number.  *AFC https://t.co/6iDGBJAc2m",
+          "scrubbed_text": "<CUSTOMER_HANDLE> I\u2019d be delighted to assist. Please follow and DM your <PNR_CONFIRMATION_CODE>. *AFC <SHORT_LINK>",
+          "is_canned": true,
+          "macro_type": "pure_dm_deflection"
+        }
+      ],
+      "metadata": {
+        "brand": "Delta",
+        "agent_signatures": [],
+        "num_agent_handoffs": 0,
+        "max_turn_gap_hours": 0.81,
+        "canned_reply_count": 1,
+        "canned_reply_ratio": 1.0,
+        "quality_category": "canned_deflection",
+        "flags": {
+          "multi_agent_handoff": false,
+          "temporal_gap_gt_24h": false,
+          "temporal_gap_gt_48h": false,
+          "is_pure_canned_deflection": true,
+          "contains_canned_macro": true
+        },
+        "pii_scrubbed_counts": {
+          "urls": 2,
+          "pnrs": 1,
+          "handles": 1
+        }
+      }
+    },
+    {
+      "thread_id": "delta_thread_3196",
+      "root_tweet_id": 3196,
+      "num_turns": 2,
+      "customer_inquiry_text": "@Delta extremely disappointed in your service at SFO. Gate agents are terribly and not helpful at all. #goldmember",
+      "initial_brand_reply": "<CUSTOMER_HANDLE> I hear the frustration. If you care to share details, please follow and DM details. *AFC <SHORT_LINK>",
+      "turns": [
+        {
+          "turn_index": 0,
+          "tweet_id": 3196,
+          "speaker": "customer",
+          "author_id": "116451",
+          "agent_signature": null,
+          "created_at": "Sun Nov 26 00:18:10 +0000 2017",
+          "gap_from_prev_hours": 0.0,
+          "raw_text": "@delta extremely disappointed in your service at SFO. Gate agents are terribly and not helpful at all. #goldmember",
+          "scrubbed_text": "@Delta extremely disappointed in your service at SFO. Gate agents are terribly and not helpful at all. #goldmember",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 1,
+          "tweet_id": 3198,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": null,
+          "created_at": "Sun Nov 26 00:19:02 +0000 2017",
+          "gap_from_prev_hours": 0.01,
+          "raw_text": "@116451 I hear the frustration. If you care to share details, please follow and DM details. *AFC https://t.co/6iDGBJAc2m",
+          "scrubbed_text": "<CUSTOMER_HANDLE> I hear the frustration. If you care to share details, please follow and DM details. *AFC <SHORT_LINK>",
+          "is_canned": true,
+          "macro_type": "pure_dm_deflection"
+        }
+      ],
+      "metadata": {
+        "brand": "Delta",
+        "agent_signatures": [],
+        "num_agent_handoffs": 0,
+        "max_turn_gap_hours": 0.01,
+        "canned_reply_count": 1,
+        "canned_reply_ratio": 1.0,
+        "quality_category": "canned_deflection",
+        "flags": {
+          "multi_agent_handoff": false,
+          "temporal_gap_gt_24h": false,
+          "temporal_gap_gt_48h": false,
+          "is_pure_canned_deflection": true,
+          "contains_canned_macro": true
+        },
+        "pii_scrubbed_counts": {
+          "urls": 1,
+          "handles": 1
+        }
+      }
+    }
+  ],
+  "pii_scrubbed_pnr_flight": [
+    {
+      "thread_id": "delta_thread_30590",
+      "root_tweet_id": 30590,
+      "num_turns": 3,
+      "customer_inquiry_text": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+      "initial_brand_reply": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+      "turns": [
+        {
+          "turn_index": 0,
+          "tweet_id": 30590,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*TJM",
+          "created_at": "Wed Nov 01 11:34:08 +0000 2017",
+          "gap_from_prev_hours": 0.0,
+          "raw_text": "@122733 Hello, of course do you have her confirmation number? Can you DM it to me? Thank you.  *TJM",
+          "scrubbed_text": "<CUSTOMER_HANDLE> Hello, of course do you have her <PNR_CONFIRMATION_CODE>? Can you DM it to me? Thank you.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        },
+        {
+          "turn_index": 1,
+          "tweet_id": 30586,
+          "speaker": "customer",
+          "author_id": "122733",
+          "agent_signature": null,
+          "created_at": "Wed Nov 01 11:47:45 +0000 2017",
+          "gap_from_prev_hours": 0.23,
+          "raw_text": "@Delta Thanks for your reply, I sent you a private message",
+          "scrubbed_text": "@Delta Thanks for your reply, I sent you a private message",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 2,
+          "tweet_id": 30587,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*ALS",
+          "created_at": "Wed Nov 01 11:56:13 +0000 2017",
+          "gap_from_prev_hours": 0.14,
+          "raw_text": "@122733 My apology for the delay. The only flight available will be DL151 ATL-LIM at 5:57P arriving at 11:35P tomorrow afternoon. *ALS",
+          "scrubbed_text": "<CUSTOMER_HANDLE> My apology for the delay. The only flight available will be <FLIGHT_NUM:DL151> ATL-LIM at 5:57P arriving at 11:35P tomorrow afternoon.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        }
+      ],
+      "metadata": {
+        "brand": "Delta",
+        "agent_signatures": [
+          "*ALS",
+          "*TJM"
+        ],
+        "num_agent_handoffs": 1,
+        "max_turn_gap_hours": 0.23,
+        "canned_reply_count": 0,
+        "canned_reply_ratio": 0.0,
+        "quality_category": "multi_agent_handoff",
+        "flags": {
+          "multi_agent_handoff": true,
+          "temporal_gap_gt_24h": false,
+          "temporal_gap_gt_48h": false,
+          "is_pure_canned_deflection": false,
+          "contains_canned_macro": false
+        },
+        "pii_scrubbed_counts": {
+          "pnrs": 1,
+          "handles": 2,
+          "flights": 1
+        }
+      }
+    },
+    {
+      "thread_id": "delta_thread_100261",
+      "root_tweet_id": 100261,
+      "num_turns": 5,
+      "customer_inquiry_text": "Where do you like to travel during #winter holidays?",
+      "initial_brand_reply": "Where do you like to travel during #winter holidays?",
+      "turns": [
+        {
+          "turn_index": 0,
+          "tweet_id": 100261,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": null,
+          "created_at": "Thu Nov 30 17:02:15 +0000 2017",
+          "gap_from_prev_hours": 0.0,
+          "raw_text": "Where do you like to travel during #winter holidays?",
+          "scrubbed_text": "Where do you like to travel during #winter holidays?",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        },
+        {
+          "turn_index": 1,
+          "tweet_id": 100497,
+          "speaker": "customer",
+          "author_id": "226525",
+          "agent_signature": null,
+          "created_at": "Fri Dec 01 06:00:22 +0000 2017",
+          "gap_from_prev_hours": 12.97,
+          "raw_text": "@Delta Taking DL793 to Cabo on Monday can't wait !! #flydelta",
+          "scrubbed_text": "@Delta Taking <FLIGHT_NUM:DL793> to Cabo on Monday can't wait !! #flydelta",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 2,
+          "tweet_id": 468397,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*ABN",
+          "created_at": "Fri Dec 01 06:01:40 +0000 2017",
+          "gap_from_prev_hours": 0.02,
+          "raw_text": "@226525 We can't wait to have you on board, Bryan! Thanks for traveling with us. *ABN",
+          "scrubbed_text": "<CUSTOMER_HANDLE> We can't wait to have you on board, Bryan! Thanks for traveling with us.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        },
+        {
+          "turn_index": 3,
+          "tweet_id": 468395,
+          "speaker": "customer",
+          "author_id": "226525",
+          "agent_signature": null,
+          "created_at": "Fri Dec 01 06:17:16 +0000 2017",
+          "gap_from_prev_hours": 0.26,
+          "raw_text": "@Delta Can I get a Delta Comfort upgrade? Trying to reach gold medallion",
+          "scrubbed_text": "@Delta Can I get a Delta Comfort upgrade? Trying to reach gold medallion",
+          "is_canned": false,
+          "macro_type": null
+        },
+        {
+          "turn_index": 4,
+          "tweet_id": 468396,
+          "speaker": "brand",
+          "author_id": "Delta",
+          "agent_signature": "*AMV",
+          "created_at": "Fri Dec 01 06:19:17 +0000 2017",
+          "gap_from_prev_hours": 0.03,
+          "raw_text": "@226525 For assistance, please follow/DM your confirmation number. *AMV",
+          "scrubbed_text": "<CUSTOMER_HANDLE> For assistance, please follow/DM your <PNR_CONFIRMATION_CODE>.",
+          "is_canned": false,
+          "macro_type": "substantive_contextual"
+        }
+      ],
+      "metadata": {
+        "brand": "Delta",
+        "agent_signatures": [
+          "*ABN",
+          "*AMV"
+        ],
+        "num_agent_handoffs": 1,
+        "max_turn_gap_hours": 12.97,
+        "canned_reply_count": 0,
+        "canned_reply_ratio": 0.0,
+        "quality_category": "multi_agent_handoff",
+        "flags": {
+          "multi_agent_handoff": true,
+          "temporal_gap_gt_24h": false,
+          "temporal_gap_gt_48h": false,
+          "is_pure_canned_deflection": false,
+          "contains_canned_macro": false
+        },
+        "pii_scrubbed_counts": {
+          "flights": 1,
+          "handles": 2,
+          "pnrs": 1
+        }
+      }
+    }
+  ]
+}

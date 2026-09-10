@@ -1,0 +1,94 @@
+{
+  "FLIGHT_DISRUPTION": {
+    "description": "Flight delays, cancellations, missed connections, weather impacts, gate changes",
+    "keywords": [
+      "delay",
+      "delayed",
+      "cancelled",
+      "cancellation",
+      "missed connection",
+      "stuck",
+      "weather",
+      "gate"
+    ]
+  },
+  "BAGGAGE_ISSUES": {
+    "description": "Lost, delayed, damaged luggage, baggage carousel issues, bag fees",
+    "keywords": [
+      "bag",
+      "baggage",
+      "luggage",
+      "lost bag",
+      "carousel",
+      "damaged bag",
+      "suitcase"
+    ]
+  },
+  "BOOKING_AND_TICKETING": {
+    "description": "Reservations, ticket changes, cancellations, seat selection, name updates, upgrades",
+    "keywords": [
+      "ticket",
+      "book",
+      "booking",
+      "seat",
+      "upgrade",
+      "first class",
+      "comfort",
+      "confirmation",
+      "change flight"
+    ]
+  },
+  "REFUNDS_AND_COMPENSATION": {
+    "description": "Refund requests, vouchers, eCredits, compensation for delays or bad service",
+    "keywords": [
+      "refund",
+      "compensation",
+      "voucher",
+      "ecredit",
+      "credit",
+      "money back",
+      "reimbursement"
+    ]
+  },
+  "IN_FLIGHT_AND_AIRPORT_SERVICE": {
+    "description": "Wi-Fi issues, IFE screens, food/beverage, flight attendant or gate agent behavior",
+    "keywords": [
+      "wifi",
+      "internet",
+      "food",
+      "crew",
+      "flight attendant",
+      "gate agent",
+      "screen",
+      "ife",
+      "rude"
+    ]
+  },
+  "SKYMILES_AND_LOYALTY": {
+    "description": "SkyMiles balance, medallion status, account login, points redemption",
+    "keywords": [
+      "skymiles",
+      "miles",
+      "medallion",
+      "status",
+      "silver",
+      "gold",
+      "diamond",
+      "platinum",
+      "points"
+    ]
+  },
+  "GENERAL_INQUIRY": {
+    "description": "General travel questions, route schedules, policies, check-in rules",
+    "keywords": [
+      "check in",
+      "policy",
+      "travel",
+      "time",
+      "hours",
+      "airport",
+      "carry on",
+      "tsa"
+    ]
+  }
+}

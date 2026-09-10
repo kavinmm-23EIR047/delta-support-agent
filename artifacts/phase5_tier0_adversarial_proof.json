@@ -1,0 +1,52 @@
+[
+  {
+    "query": "@Delta Passenger on flight <FLIGHT_NUM:DL492> having severe asthma attack, need paramedics at gate!",
+    "simulated_classifier_prediction": "IN_FLIGHT_AND_AIRPORT_SERVICE",
+    "simulated_confidence": 0.994,
+    "guardrail_triggered": true,
+    "guardrail_category": "CRITICAL_SAFETY_AND_MEDICAL",
+    "matched_token": "asthma",
+    "final_decision": "ESCALATED",
+    "proof_status": "PROTECTED"
+  },
+  {
+    "query": "@Delta Delta breached 14 CFR Part 259 tarmac rules on DL881. Filing lawsuit and DOT complaint.",
+    "simulated_classifier_prediction": "GENERAL_INQUIRY",
+    "simulated_confidence": 0.988,
+    "guardrail_triggered": true,
+    "guardrail_category": "LEGAL_AND_DOT_REGULATORY",
+    "matched_token": "14 CFR",
+    "final_decision": "ESCALATED",
+    "proof_status": "PROTECTED"
+  },
+  {
+    "query": "@Delta Baggage handlers bent the frame on my motorized wheelchair on flight DL310. Stranded in terminal!",
+    "simulated_classifier_prediction": "BAGGAGE_ISSUES",
+    "simulated_confidence": 0.997,
+    "guardrail_triggered": true,
+    "guardrail_category": "ADA_AND_MOBILITY_CRITICAL",
+    "matched_token": "motorized wheelchair",
+    "final_decision": "ESCALATED",
+    "proof_status": "PROTECTED"
+  },
+  {
+    "query": "@Delta My 12 year old unaccompanied minor is stranded alone at gate in DTW after cancellation with no Delta rep!",
+    "simulated_classifier_prediction": "FLIGHT_DISRUPTIONS",
+    "simulated_confidence": 0.991,
+    "guardrail_triggered": true,
+    "guardrail_category": "VULNERABLE_PASSENGER_URGENCY",
+    "matched_token": "12 year old",
+    "final_decision": "ESCALATED",
+    "proof_status": "PROTECTED"
+  },
+  {
+    "query": "@Delta SkyMiles account hacked and 150,000 miles transferred without my permission. Lock account immediately!",
+    "simulated_classifier_prediction": "SKYMILES_AND_LOYALTY",
+    "simulated_confidence": 0.995,
+    "guardrail_triggered": true,
+    "guardrail_category": "SECURITY_AND_ACCOUNT_TAKEOVER",
+    "matched_token": "hacked",
+    "final_decision": "ESCALATED",
+    "proof_status": "PROTECTED"
+  }
+]

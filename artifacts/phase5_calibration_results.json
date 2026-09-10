@@ -1,0 +1,109 @@
+{
+  "optimal_calibrated_threshold": 0.28,
+  "cost_ratio_FN_to_FP": "15.0:1",
+  "pr_auc": 0.894,
+  "roc_auc": 0.935,
+  "metrics_at_calibrated_threshold": {
+    "precision": 0.9231,
+    "recall": 1.0,
+    "f1_score": 0.96,
+    "false_negatives": 0,
+    "false_positives": 10,
+    "true_positives": 120,
+    "true_negatives": 115,
+    "min_operational_cost": 10.0
+  },
+  "guardrail_tier0_triggers": 55,
+  "cost_tradeoff_curve_sample": [
+    {
+      "threshold": 0.05,
+      "precision": 0.4898,
+      "recall": 1.0,
+      "f1_score": 0.6575,
+      "false_negatives": 0,
+      "false_positives": 125,
+      "total_operational_cost": 125.0
+    },
+    {
+      "threshold": 0.15,
+      "precision": 0.7742,
+      "recall": 1.0,
+      "f1_score": 0.8727,
+      "false_negatives": 0,
+      "false_positives": 35,
+      "total_operational_cost": 35.0
+    },
+    {
+      "threshold": 0.25,
+      "precision": 0.8276,
+      "recall": 1.0,
+      "f1_score": 0.9057,
+      "false_negatives": 0,
+      "false_positives": 25,
+      "total_operational_cost": 25.0
+    },
+    {
+      "threshold": 0.35,
+      "precision": 0.9231,
+      "recall": 1.0,
+      "f1_score": 0.96,
+      "false_negatives": 0,
+      "false_positives": 10,
+      "total_operational_cost": 10.0
+    },
+    {
+      "threshold": 0.45,
+      "precision": 0.9231,
+      "recall": 1.0,
+      "f1_score": 0.96,
+      "false_negatives": 0,
+      "false_positives": 10,
+      "total_operational_cost": 10.0
+    },
+    {
+      "threshold": 0.55,
+      "precision": 0.9231,
+      "recall": 1.0,
+      "f1_score": 0.96,
+      "false_negatives": 0,
+      "false_positives": 10,
+      "total_operational_cost": 10.0
+    },
+    {
+      "threshold": 0.65,
+      "precision": 0.9231,
+      "recall": 1.0,
+      "f1_score": 0.96,
+      "false_negatives": 0,
+      "false_positives": 10,
+      "total_operational_cost": 10.0
+    },
+    {
+      "threshold": 0.75,
+      "precision": 0.9231,
+      "recall": 1.0,
+      "f1_score": 0.96,
+      "false_negatives": 0,
+      "false_positives": 10,
+      "total_operational_cost": 10.0
+    },
+    {
+      "threshold": 0.85,
+      "precision": 0.92,
+      "recall": 0.9583,
+      "f1_score": 0.9388,
+      "false_negatives": 5,
+      "false_positives": 10,
+      "total_operational_cost": 85.0
+    },
+    {
+      "threshold": 0.95,
+      "precision": 0.8182,
+      "recall": 0.375,
+      "f1_score": 0.5143,
+      "false_negatives": 75,
+      "false_positives": 10,
+      "total_operational_cost": 1135.0
+    }
+  ]
+}

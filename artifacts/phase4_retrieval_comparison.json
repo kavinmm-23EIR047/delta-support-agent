@@ -1,0 +1,190 @@
+[
+  {
+    "query": "Flight DL194 delayed 3 hours in Atlanta, missed connection to Boston. Can I get meal voucher or change to morning flight?",
+    "naive_hits": [
+      {
+        "thread_id": "delta_thread_400964",
+        "customer_inquiry": "I\u2019m 6 segments from #goldmedallion on @Delta and it\u2019s already paying off! 3 #delays 1 missed connection and I\u2019m in 37F. #lastrow #norecline <SHORT_LINK>",
+        "brand_reply": "<CUSTOMER_HANDLE> That's great to hear Max. I do apologize for the delays that you've experienced.",
+        "cosine_similarity": 0.4051,
+        "resolution_score": 0.75,
+        "resolution_label": "IMPLICIT_SUCCESSFUL_CLOSURE",
+        "composite_score": 0.4051,
+        "rationale": "Substantive brand response with no further customer rebuttal (issue closed)."
+      },
+      {
+        "thread_id": "delta_thread_394649",
+        "customer_inquiry": "<CUSTOMER_HANDLE> standard @Delta Monday mechanical and missed connection.",
+        "brand_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> Hi, Tommy! I am so sorry! Were you able to get rebooked for a later flight today?",
+        "cosine_similarity": 0.3409,
+        "resolution_score": 0.75,
+        "resolution_label": "IMPLICIT_SUCCESSFUL_CLOSURE",
+        "composite_score": 0.3409,
+        "rationale": "Substantive brand response with no further customer rebuttal (issue closed)."
+      }
+    ],
+    "weighted_hits": [
+      {
+        "thread_id": "delta_thread_400964",
+        "customer_inquiry": "I\u2019m 6 segments from #goldmedallion on @Delta and it\u2019s already paying off! 3 #delays 1 missed connection and I\u2019m in 37F. #lastrow #norecline <SHORT_LINK>",
+        "brand_reply": "<CUSTOMER_HANDLE> That's great to hear Max. I do apologize for the delays that you've experienced.",
+        "cosine_similarity": 0.4051,
+        "resolution_score": 0.75,
+        "resolution_label": "IMPLICIT_SUCCESSFUL_CLOSURE",
+        "composite_score": 0.5258,
+        "rationale": "Substantive brand response with no further customer rebuttal (issue closed)."
+      },
+      {
+        "thread_id": "delta_thread_270967",
+        "customer_inquiry": "@Delta Help? Stuck in ATL 24hrs b/c of delays on flight from ORD, missed connection to DUB. Told I couldn't access bag w/clothes, meds, etc.",
+        "brand_reply": "<CUSTOMER_HANDLE> ...necessities please keep all receipts and submit them via this link. <SHORT_LINK> *HVI 2/2",
+        "cosine_similarity": 0.2533,
+        "resolution_score": 0.95,
+        "resolution_label": "EXPLICIT_SUCCESS",
+        "composite_score": 0.4972,
+        "rationale": "Customer explicitly expressed gratitude/satisfaction after brand response."
+      }
+    ]
+  },
+  {
+    "query": "Checked bag DL4829 didn't show up on carousel at LGA. Where is the baggage service desk located?",
+    "naive_hits": [
+      {
+        "thread_id": "delta_thread_394659",
+        "customer_inquiry": "@Delta can you pay for a checked bag with airmiles?",
+        "brand_reply": "<CUSTOMER_HANDLE> At this time you can only pay for baggage with cash or a card.",
+        "cosine_similarity": 0.4211,
+        "resolution_score": 0.75,
+        "resolution_label": "IMPLICIT_SUCCESSFUL_CLOSURE",
+        "composite_score": 0.4211,
+        "rationale": "Substantive brand response with no further customer rebuttal (issue closed)."
+      },
+      {
+        "thread_id": "delta_thread_150808",
+        "customer_inquiry": "Hi @Delta what\u2019s your fee for a checked bag weighing just over 50#?",
+        "brand_reply": "<CUSTOMER_HANDLE> Hi, Annie. Between 51 lbs \u2013 70 lbs the overweight charge will be $100.",
+        "cosine_similarity": 0.3651,
+        "resolution_score": 0.95,
+        "resolution_label": "EXPLICIT_SUCCESS",
+        "composite_score": 0.3651,
+        "rationale": "Customer explicitly expressed gratitude/satisfaction after brand response."
+      }
+    ],
+    "weighted_hits": [
+      {
+        "thread_id": "delta_thread_150808",
+        "customer_inquiry": "Hi @Delta what\u2019s your fee for a checked bag weighing just over 50#?",
+        "brand_reply": "<CUSTOMER_HANDLE> Hi, Annie. Between 51 lbs \u2013 70 lbs the overweight charge will be $100.",
+        "cosine_similarity": 0.3651,
+        "resolution_score": 0.95,
+        "resolution_label": "EXPLICIT_SUCCESS",
+        "composite_score": 0.5698,
+        "rationale": "Customer explicitly expressed gratitude/satisfaction after brand response."
+      },
+      {
+        "thread_id": "delta_thread_180422",
+        "customer_inquiry": "Checked my bag on @Delta with a pocket full of <CUSTOMER_HANDLE>, pick it up at bag claim wet and with the bag open and all of my bars gone. #crappy",
+        "brand_reply": "<CUSTOMER_HANDLE> Hi Olivia. I sincerely apologize about what has happened. Please submit the receipt for your larabars and we will look to refund you.",
+        "cosine_similarity": 0.341,
+        "resolution_score": 0.95,
+        "resolution_label": "EXPLICIT_SUCCESS",
+        "composite_score": 0.5541,
+        "rationale": "Customer explicitly expressed gratitude/satisfaction after brand response."
+      }
+    ]
+  },
+  {
+    "query": "Can I bring my cat in the cabin on a flight from JFK to LAX? What is the pet fee?",
+    "naive_hits": [
+      {
+        "thread_id": "delta_thread_214174",
+        "customer_inquiry": "A full @Delta flight to JFK on a tiny CRJ plane. Lots of cabin luggage and the gate agent decided to outsource the pain to the poor FA.",
+        "brand_reply": "<CUSTOMER_HANDLE> That's not good. Thanks for bringing this to our attention, Ivan.",
+        "cosine_similarity": 0.4232,
+        "resolution_score": 0.4,
+        "resolution_label": "AMBIGUOUS_SILENT_CLOSURE",
+        "composite_score": 0.4232,
+        "rationale": "Short or template reply with no follow-up (risk of customer abandonment)."
+      },
+      {
+        "thread_id": "delta_thread_394635",
+        "customer_inquiry": "I see your flight was from jfk to atl @Delta so was domestic or intl \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f omg really",
+        "brand_reply": "<CUSTOMER_HANDLE> I understand how frustrating that is. We look forward to serving you better on your next flight.",
+        "cosine_similarity": 0.299,
+        "resolution_score": 0.1,
+        "resolution_label": "FAILED_ESCALATION",
+        "composite_score": 0.299,
+        "rationale": "Customer expressed continued frustration, anger, or escalated complaint post-reply."
+      }
+    ],
+    "weighted_hits": [
+      {
+        "thread_id": "delta_thread_438087",
+        "customer_inquiry": "Hi <CUSTOMER_HANDLE> I was originally on flight JFK-Chicago O'Hare October 9 that was canceled. I still need my luggage that was checked-in. 1/2",
+        "brand_reply": "<CUSTOMER_HANDLE> Hi Magdelijn, you will need to speak with baggage services to set up a claim.",
+        "cosine_similarity": 0.2916,
+        "resolution_score": 0.95,
+        "resolution_label": "EXPLICIT_SUCCESS",
+        "composite_score": 0.5221,
+        "rationale": "Customer explicitly expressed gratitude/satisfaction after brand response."
+      },
+      {
+        "thread_id": "delta_thread_225667",
+        "customer_inquiry": "Hey @Delta .... are the issues with the caterer at LAX solved now? Flying RT from ATL-LAX next week. Should I pack a sandwich? ;)",
+        "brand_reply": "<CUSTOMER_HANDLE> I am sorry to hear that, Tony. Pls follow/DM your confirmation or ticket number. *AFM <SHORT_LINK>",
+        "cosine_similarity": 0.1918,
+        "resolution_score": 0.95,
+        "resolution_label": "EXPLICIT_SUCCESS",
+        "composite_score": 0.4572,
+        "rationale": "Customer explicitly expressed gratitude/satisfaction after brand response."
+      }
+    ]
+  },
+  {
+    "query": "How do I apply my SkyMiles eCredit voucher to book a new flight online?",
+    "naive_hits": [
+      {
+        "thread_id": "delta_thread_146036",
+        "customer_inquiry": "@Delta you guys gave me a 200$ voucher but no way to apply it when buying a new ticket in the new app. Seems like a slight oversight...",
+        "brand_reply": "<CUSTOMER_HANDLE> Oh, no. Thanks for bringing this to our attention. I will share this with our I.T. Team for internal review. Are you able to book from a laptop or desktop computer?",
+        "cosine_similarity": 0.3633,
+        "resolution_score": 0.95,
+        "resolution_label": "EXPLICIT_SUCCESS",
+        "composite_score": 0.3633,
+        "rationale": "Customer explicitly expressed gratitude/satisfaction after brand response."
+      },
+      {
+        "thread_id": "delta_thread_422766",
+        "customer_inquiry": "@Delta your employees are lovely for consoling me and helping me find a new flight when I missed mine last night :)",
+        "brand_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> That's so good to hear. We truly care and value our passengers and their time.",
+        "cosine_similarity": 0.3161,
+        "resolution_score": 0.75,
+        "resolution_label": "IMPLICIT_SUCCESSFUL_CLOSURE",
+        "composite_score": 0.3161,
+        "rationale": "Substantive brand response with no further customer rebuttal (issue closed)."
+      }
+    ],
+    "weighted_hits": [
+      {
+        "thread_id": "delta_thread_146036",
+        "customer_inquiry": "@Delta you guys gave me a 200$ voucher but no way to apply it when buying a new ticket in the new app. Seems like a slight oversight...",
+        "brand_reply": "<CUSTOMER_HANDLE> Oh, no. Thanks for bringing this to our attention. I will share this with our I.T. Team for internal review. Are you able to book from a laptop or desktop computer?",
+        "cosine_similarity": 0.3633,
+        "resolution_score": 0.95,
+        "resolution_label": "EXPLICIT_SUCCESS",
+        "composite_score": 0.5686,
+        "rationale": "Customer explicitly expressed gratitude/satisfaction after brand response."
+      },
+      {
+        "thread_id": "delta_thread_422766",
+        "customer_inquiry": "@Delta your employees are lovely for consoling me and helping me find a new flight when I missed mine last night :)",
+        "brand_reply": "<CUSTOMER_HANDLE> <CUSTOMER_HANDLE> That's so good to hear. We truly care and value our passengers and their time.",
+        "cosine_similarity": 0.3161,
+        "resolution_score": 0.75,
+        "resolution_label": "IMPLICIT_SUCCESSFUL_CLOSURE",
+        "composite_score": 0.468,
+        "rationale": "Substantive brand response with no further customer rebuttal (issue closed)."
+      }
+    ]
+  }
+]

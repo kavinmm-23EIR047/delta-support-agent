@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Large Datasets (> 100MB exceeds GitHub limits)
+data/twcs/twcs.csv
+data/twcs/
+*.csv.zip
+*.tar.gz
+
+# Large intermediate memory artifacts (> 50MB)
+artifacts/delta_reconstructed_threads.json
+artifacts/*.INVALID.json
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

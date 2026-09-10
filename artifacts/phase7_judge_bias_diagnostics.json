@@ -1,0 +1,20 @@
+{
+  "verbosity_bias": {
+    "concise_words": 18,
+    "verbose_words": 78,
+    "unmitigated_gap": -0.56,
+    "mitigated_gap": -0.74,
+    "correction": "Length penalty applied for words > 60 with redundant filler tokens."
+  },
+  "position_bias": {
+    "unmitigated_inconsistency_rate": 0.35,
+    "mitigated_inconsistency_rate": 0.0,
+    "correction": "Bidirectional Pairwise Averaging: Score(A) = 0.5 * (Win(A,B) + (1 - Win(B,A)))."
+  },
+  "sycophancy_bias": {
+    "confident_wrong_score": 4.04,
+    "hedged_correct_score": 4.6,
+    "protection_margin": 0.56,
+    "correction": "Explicit Factual Grounding rubric penalizing unauthorized commitments."
+  }
+}

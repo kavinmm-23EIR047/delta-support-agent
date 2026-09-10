@@ -1,0 +1,34 @@
+{
+  "total_cases_evaluated": 50,
+  "cohens_kappa": 0.7596,
+  "agreement_interpretation": "Substantial Agreement (0.61 - 0.80 Range)",
+  "detailed_disagreement_case_studies": [
+    {
+      "id": "DIS_01",
+      "query": "@Delta 3 hours on tarmac at ATL, no water offered, missed connection. Where is the supervisor?",
+      "response": "<CUSTOMER_HANDLE> We are deeply sorry for the tarmac delay at ATL. Please speak to the Delta gate agent at Concourse B or DM your confirmation code. *CS",
+      "human_rating": "SATISFACTORY",
+      "judge_rating": "EXCELLENT",
+      "human_rationale": "Human noted: Reply gave standard concourse location but failed to acknowledge the DOT tarmac rule violation regarding water distribution.",
+      "judge_rationale": "Judge noted: High empathy, mentioned concourse gate agent and DM channel."
+    },
+    {
+      "id": "DIS_02",
+      "query": "@Delta Is flight DL889 on time today?",
+      "response": "<CUSTOMER_HANDLE> DL889 is currently on schedule for on-time departure at 4:15 PM from Gate B12. *CS",
+      "human_rating": "EXCELLENT",
+      "judge_rating": "SATISFACTORY",
+      "human_rationale": "Human noted: Perfect, exact, zero-fluff answer with gate and time.",
+      "judge_rationale": "Judge noted: Lacked greeting or expression of appreciation for flying Delta."
+    },
+    {
+      "id": "DIS_03",
+      "query": "@Delta Can I switch to tomorrow morning without change fee because of snow at BOS?",
+      "response": "<CUSTOMER_HANDLE> Please check <DELTA_OFFICIAL_URL> for active Boston weather waivers. If your travel dates match, changes are fee-waived. *CS",
+      "human_rating": "EXCELLENT",
+      "judge_rating": "EXCELLENT",
+      "human_rationale": "Accurate self-service verification link provided.",
+      "judge_rationale": "Grounding in verified weather waiver portal."
+    }
+  ]
+}

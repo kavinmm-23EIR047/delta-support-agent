@@ -1,0 +1,78 @@
+{
+  "TIER_0_MANDATORY_ESCALATION": {
+    "CRITICAL_SAFETY_AND_MEDICAL": {
+      "description": "In-flight/tarmac medical emergencies, severe turbulence injuries, active safety hazards, trapped passengers.",
+      "action_policy": "Bypass bot immediately. Alert dispatch and airport operations.",
+      "override": true
+    },
+    "LEGAL_REGULATORY_DOT_COMPLAINT": {
+      "description": "Threats of litigation, formal FAA/DOT regulatory violations (14 CFR Part 259 tarmac rules, involuntary bumping rules), attorney notices.",
+      "action_policy": "Route to Legal/Regulatory Affairs. Do not generate automated legal advice.",
+      "override": true
+    },
+    "ACCESSIBILITY_AND_ADA_CRITICAL": {
+      "description": "Damaged motorized wheelchairs/assistive devices, passenger left stranded without mobility aid, service animal denial.",
+      "action_policy": "Immediate Priority ADA escalation. Station manager alert.",
+      "override": true
+    },
+    "SECURITY_AND_ACCOUNT_TAKEOVER": {
+      "description": "Compromised SkyMiles account, unauthorized points drain, credential stuffing, identity theft.",
+      "action_policy": "Lock account security status, route to Fraud Prevention.",
+      "override": true
+    },
+    "VULNERABLE_PASSENGER_URGENCY": {
+      "description": "Unaccompanied minors stranded/unattended during disruptions, lost children, medical equipment/insulin trapped in delayed bags.",
+      "action_policy": "Immediate supervisor alert at transit hub.",
+      "override": true
+    }
+  },
+  "TIER_1_OPERATIONAL_INTENTS": {
+    "FLIGHT_DISRUPTIONS": {
+      "sub_intents": [
+        "DELAY_STATUS_AND_ESTIMATES",
+        "CANCELLATION_REBOOKING_OPTIONS",
+        "MISSED_CONNECTION_RECOVERY",
+        "WEATHER_DISRUPTION_WAIVERS"
+      ]
+    },
+    "BAGGAGE_AND_CARGO": {
+      "sub_intents": [
+        "DELAYED_LOST_BAG_TRACKING",
+        "DAMAGED_LUGGAGE_CLAIMS",
+        "BAGGAGE_ALLOWANCE_AND_FEES",
+        "PET_AND_SPECIAL_CARGO_RULES"
+      ]
+    },
+    "RESERVATIONS_AND_TICKETING": {
+      "sub_intents": [
+        "SEAT_SELECTION_AND_UPGRADES",
+        "NAME_CORRECTION_SAME_DAY",
+        "SCHEDULE_CHANGE_CONFIRMATION",
+        "FAMILY_AND_INFANT_SEATING"
+      ]
+    },
+    "REFUNDS_CREDITS_COMPENSATION": {
+      "sub_intents": [
+        "INVOLUNTARY_DISRUPTION_REFUND",
+        "ECREDIT_VOUCHER_RESOLUTION",
+        "INVOLUNTARY_DOWNGRADE_COMPENSATION",
+        "BEREAVEMENT_MEDICAL_EXCEPTIONS"
+      ]
+    },
+    "SKYMILES_AND_LOYALTY": {
+      "sub_intents": [
+        "MEDALLION_BENEFITS_UPGRADES",
+        "MILES_ACCRUAL_MISSING_CREDIT",
+        "POINTS_REDEMPTION_ASSISTANCE"
+      ]
+    },
+    "AIRPORT_AND_ONBOARD_EXPERIENCE": {
+      "sub_intents": [
+        "INFLIGHT_WIFI_THIRD_PARTY_ISSUES",
+        "STAFF_CONDUCT_FEEDBACK",
+        "CABIN_AMENITIES_AND_SEATING_COMFORT",
+        "AIRPORT_LOUNGE_AND_GATE_ACCESS"
+      ]
+    }
+  }
+}

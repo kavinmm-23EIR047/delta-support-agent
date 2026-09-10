@@ -1,0 +1,182 @@
+[
+  {
+    "id": "EDGE_01",
+    "type": "Compound Multi-Intent (Disruption + Baggage + Refund)",
+    "query": "@Delta My flight <FLIGHT_NUM:DL142> was delayed 4 hours, missed connection to Paris, AND your baggage carousel at ATL tore the handle off my suitcase. Need refund for hotel and compensation for luggage.",
+    "v1_predicted": "FLIGHT_DISRUPTION or BAGGAGE_ISSUES (single-label loss of refund request)",
+    "v1_failure_reason": "Fails to capture 'Baggage Damage Claim + Disruption Hotel Reimbursement' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Baggage Damage Claim + Disruption Hotel Reimbursement",
+    "severity": "High"
+  },
+  {
+    "id": "EDGE_02",
+    "type": "Critical Medical / Safety Emergency on Tarmac",
+    "query": "@Delta Stuck on tarmac for 3 hours on <FLIGHT_NUM:DL492>, passenger next to me having severe asthma attack, flight crew refusing to open doors or call paramedics!",
+    "v1_predicted": "FLIGHT_DISRUPTION (keyword 'tarmac', 'stuck') or IN_FLIGHT_AND_AIRPORT_SERVICE (keyword 'flight crew')",
+    "v1_failure_reason": "Fails to capture 'IMMEDIATE EMERGENCY SAFETY OVERRIDE / CALL AIRPORT MEDICAL DISPATCH' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_0_MANDATORY_ESCALATION",
+    "v2_classified_intent": "IMMEDIATE EMERGENCY SAFETY OVERRIDE / CALL AIRPORT MEDICAL DISPATCH",
+    "severity": "CRITICAL_EMERGENCY"
+  },
+  {
+    "id": "EDGE_03",
+    "type": "DOT Regulatory Compliance & Legal Threat",
+    "query": "@Delta Delta breached 14 CFR Part 259 tarmac delay rule on <FLIGHT_NUM:DL881>. Contacting DOT and filing formal lawsuit unless compensated immediately. What is your legal service address?",
+    "v1_predicted": "REFUNDS_AND_COMPENSATION or GENERAL_INQUIRY",
+    "v1_failure_reason": "Fails to capture 'LEGAL / REGULATORY DOT ESCALATION (Legal department route, halt automated bot answers)' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_0_MANDATORY_ESCALATION",
+    "v2_classified_intent": "LEGAL / REGULATORY DOT ESCALATION (Legal department route, halt automated bot answers)",
+    "severity": "LEGAL_ESCALATION"
+  },
+  {
+    "id": "EDGE_04",
+    "type": "Pet in Cargo Safety / Extreme Temperature Risk",
+    "query": "@Delta Traveling with my dog in cargo on flight <FLIGHT_NUM:DL204> from MSP to MIA in sub-zero temp. Did the pet climate control waiver go through? I'm panicking.",
+    "v1_predicted": "GENERAL_INQUIRY or BOOKING_AND_TICKETING (falls into generic policy bucket)",
+    "v1_failure_reason": "Fails to capture 'Special Assistance / Live Animal Cargo Safety Verification' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Special Assistance / Live Animal Cargo Safety Verification",
+    "severity": "High"
+  },
+  {
+    "id": "EDGE_05",
+    "type": "Unaccompanied Minor Stranded during Disruption",
+    "query": "@Delta My 12-year-old daughter is flying unaccompanied on <FLIGHT_NUM:DL901>, connection in DTW cancelled, nobody from Delta is with her at the gate!",
+    "v1_predicted": "FLIGHT_DISRUPTION (treated like regular delayed passenger rebooking)",
+    "v1_failure_reason": "Fails to capture 'URGENT UNACCOMPANIED MINOR ESCALATION (Airport Duty Manager Dispatch)' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_0_MANDATORY_ESCALATION",
+    "v2_classified_intent": "URGENT UNACCOMPANIED MINOR ESCALATION (Airport Duty Manager Dispatch)",
+    "severity": "CRITICAL_ESCALATION"
+  },
+  {
+    "id": "EDGE_06",
+    "type": "Infant Travel vs Seat Fee Policy Conflict",
+    "query": "@Delta Booked basic economy ticket, traveling with 6-month-old infant, need bassinet row but app charging $150 seat selection fee. Need fee waived for safety.",
+    "v1_predicted": "BOOKING_AND_TICKETING (routed to standard paid seat selection)",
+    "v1_failure_reason": "Fails to capture 'Special Assistance (Infant Policy) + Fee Waiver Override' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Special Assistance (Infant Policy) + Fee Waiver Override",
+    "severity": "Medium"
+  },
+  {
+    "id": "EDGE_07",
+    "type": "Bereavement Fare / Emergency Refund Exception",
+    "query": "@Delta My mother passed away this morning, need to cancel my non-refundable ticket and book bereavement travel to ATL tonight.",
+    "v1_predicted": "REFUNDS_AND_COMPENSATION (denied under standard non-refundable ticket rule)",
+    "v1_failure_reason": "Fails to capture 'Bereavement Policy Exception + Urgent Rebooking' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Bereavement Policy Exception + Urgent Rebooking",
+    "severity": "High"
+  },
+  {
+    "id": "EDGE_08",
+    "type": "Account Takeover / Cybersecurity Breach",
+    "query": "@Delta Someone logged into my SkyMiles account from Russia and transferred 150,000 miles. My phone number was changed. Lock account immediately!",
+    "v1_predicted": "SKYMILES_AND_LOYALTY (treated as routine miles balance / transfer inquiry)",
+    "v1_failure_reason": "Fails to capture 'URGENT SECURITY FREEZE / FRAUD PREVENTION' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_0_MANDATORY_ESCALATION",
+    "v2_classified_intent": "URGENT SECURITY FREEZE / FRAUD PREVENTION",
+    "severity": "SECURITY_ESCALATION"
+  },
+  {
+    "id": "EDGE_09",
+    "type": "Wheelchair / Assistive Device Damage (ADA Compliance)",
+    "query": "@Delta Delta baggage handlers bent the motor frame on my motorized wheelchair on flight <FLIGHT_NUM:DL310>. I am immobile in Terminal C and cannot leave the airport.",
+    "v1_predicted": "BAGGAGE_ISSUES (queued into 48-hour lost luggage claim backlog instead of immediate mobility response)",
+    "v1_failure_reason": "Fails to capture 'CRITICAL ADA / ACCESSIBILITY ESCALATION + Airport Mobility Assistance' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_0_MANDATORY_ESCALATION",
+    "v2_classified_intent": "CRITICAL ADA / ACCESSIBILITY ESCALATION + Airport Mobility Assistance",
+    "severity": "CRITICAL_ADA"
+  },
+  {
+    "id": "EDGE_10",
+    "type": "Passport Name Typo on International Departure Day",
+    "query": "@Delta Spelled surname with one letter wrong on international ticket <FLIGHT_NUM:DL18> to London, flying in 3 hours, app says $200 change fee or rebook at full price.",
+    "v1_predicted": "BOOKING_AND_TICKETING (standard change fee macro)",
+    "v1_failure_reason": "Fails to capture 'Same-Day Critical Name Correction / Waiver (Doc Verification)' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Same-Day Critical Name Correction / Waiver (Doc Verification)",
+    "severity": "High"
+  },
+  {
+    "id": "EDGE_11",
+    "type": "Delayed Baggage Containing Life-Critical Prescription",
+    "query": "@Delta Checked bag delayed at JFK on <FLIGHT_NUM:DL442> contains my insulin prescription. Need emergency courier delivery or medical expense authorization within 2 hours.",
+    "v1_predicted": "BAGGAGE_ISSUES (standard 24h baggage tracer)",
+    "v1_failure_reason": "Fails to capture 'URGENT MEDICAL BAGGAGE PRIORITY EXPEDITE' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_0_MANDATORY_ESCALATION",
+    "v2_classified_intent": "URGENT MEDICAL BAGGAGE PRIORITY EXPEDITE",
+    "severity": "CRITICAL_MEDICAL"
+  },
+  {
+    "id": "EDGE_12",
+    "type": "Third-Party Service (Gogo In-Flight Wi-Fi) Billing Dispute",
+    "query": "@Delta Paid $29 for Gogo in-flight wifi on <FLIGHT_NUM:DL104>, did not connect entire flight, flight attendant refused to help, want refund.",
+    "v1_predicted": "REFUNDS_AND_COMPENSATION (attempts to process direct airline ticket refund)",
+    "v1_failure_reason": "Fails to capture 'Third-Party Wi-Fi Refund Redirect / In-Flight Service Acknowledgment' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Third-Party Wi-Fi Refund Redirect / In-Flight Service Acknowledgment",
+    "severity": "Low"
+  },
+  {
+    "id": "EDGE_13",
+    "type": "Voucher Expiration during Involuntary Schedule Disruption",
+    "query": "@Delta Delta canceled my original flight in June and issued eCredit expiring Dec 31, but website won't apply code to new booking <FLIGHT_NUM:DL450>.",
+    "v1_predicted": "REFUNDS_AND_COMPENSATION or BOOKING_AND_TICKETING",
+    "v1_failure_reason": "Fails to capture 'eCredit Technical Booking Resolution + Expiration Extension' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "eCredit Technical Booking Resolution + Expiration Extension",
+    "severity": "Medium"
+  },
+  {
+    "id": "EDGE_14",
+    "type": "Staff Discrimination / Gate Agent Misconduct",
+    "query": "@Delta Gate agent at LGA insulted my mother in wheelchair and denied priority boarding despite First Class ticket. Want supervisor review.",
+    "v1_predicted": "IN_FLIGHT_AND_AIRPORT_SERVICE (treated as general gate inquiry)",
+    "v1_failure_reason": "Fails to capture 'FORMAL STAFF MISCONDUCT / ADA ESCALATION' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "FORMAL STAFF MISCONDUCT / ADA ESCALATION",
+    "severity": "High"
+  },
+  {
+    "id": "EDGE_15",
+    "type": "Involuntary Denied Boarding (IDB) DOT Cash Rights",
+    "query": "@Delta Involuntarily bumped from <FLIGHT_NUM:DL612> at gate, offered $300 travel voucher instead of required cash DOT compensation under federal rules.",
+    "v1_predicted": "REFUNDS_AND_COMPENSATION or FLIGHT_DISRUPTION",
+    "v1_failure_reason": "Fails to capture 'Involuntary Denied Boarding (IDB) Statutory Compensation' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Involuntary Denied Boarding (IDB) Statutory Compensation",
+    "severity": "High"
+  },
+  {
+    "id": "EDGE_16",
+    "type": "Customs Delay Causing Automated No-Show Cancellation",
+    "query": "@Delta Inbound flight <FLIGHT_NUM:DL73> landed on time but 2-hour passport line caused missed connection <FLIGHT_NUM:DL1104>. Delta app marked me as no-show and cancelled return ticket!",
+    "v1_predicted": "FLIGHT_DISRUPTION or BOOKING_AND_TICKETING",
+    "v1_failure_reason": "Fails to capture 'Reinstatement of Involuntarily Cancelled Return PNR + Rebooking' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Reinstatement of Involuntarily Cancelled Return PNR + Rebooking",
+    "severity": "High"
+  },
+  {
+    "id": "EDGE_17",
+    "type": "Involuntary Aircraft Swap Downgrade (First to Economy)",
+    "query": "@Delta Paid for First Class on <FLIGHT_NUM:DL330>, equipment change swapped to CRJ900 and put me in row 21 Main Cabin. Gate agent said refund is automatic, but received no email.",
+    "v1_predicted": "REFUNDS_AND_COMPENSATION (loses seat downgrade operational context)",
+    "v1_failure_reason": "Fails to capture 'Involuntary Downgrade Fare Difference Refund + Goodwill SkyMiles' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Involuntary Downgrade Fare Difference Refund + Goodwill SkyMiles",
+    "severity": "Medium"
+  },
+  {
+    "id": "EDGE_18",
+    "type": "Active Duty Military Baggage Policy Conflict",
+    "query": "@Delta Active duty military on official orders flying <FLIGHT_NUM:DL812>, counter agent charged $150 for 3rd checked duffle bag despite Delta military policy. Need fee reversed.",
+    "v1_predicted": "BAGGAGE_ISSUES (standard baggage fee explanation)",
+    "v1_failure_reason": "Fails to capture 'Military Policy Baggage Fee Reversal' due to single-label collapse or lack of safety tier.",
+    "v2_primary_tier": "TIER_1_OPERATIONAL_INTENTS",
+    "v2_classified_intent": "Military Policy Baggage Fee Reversal",
+    "severity": "Medium"
+  }
+]

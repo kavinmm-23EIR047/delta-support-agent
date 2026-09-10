@@ -1,0 +1,42 @@
+[
+  {
+    "system": "Baseline 0 (Majority Canned Macro)",
+    "escalation_precision": 0.0,
+    "escalation_recall": 0.0,
+    "escalation_f1": 0.0,
+    "missed_escalations (FN)": 120,
+    "false_alarms (FP)": 0,
+    "total_operational_cost (15:1)": 1800.0,
+    "mean_grounding_fidelity": 0.2
+  },
+  {
+    "system": "Baseline 1 (TF-IDF + Static Templates)",
+    "escalation_precision": 0.0,
+    "escalation_recall": 0.0,
+    "escalation_f1": 0.0,
+    "missed_escalations (FN)": 120,
+    "false_alarms (FP)": 0,
+    "total_operational_cost (15:1)": 1800.0,
+    "mean_grounding_fidelity": 0.2
+  },
+  {
+    "system": "Baseline 2 (Direct Zero-Shot LLM)",
+    "escalation_precision": 1.0,
+    "escalation_recall": 0.125,
+    "escalation_f1": 0.2222,
+    "missed_escalations (FN)": 105,
+    "false_alarms (FP)": 0,
+    "total_operational_cost (15:1)": 1575.0,
+    "mean_grounding_fidelity": 0.5306
+  },
+  {
+    "system": "Full System (Taxonomy v2 + Res-Weighted RAG + Calibrated Policy)",
+    "escalation_precision": 0.9231,
+    "escalation_recall": 1.0,
+    "escalation_f1": 0.96,
+    "missed_escalations (FN)": 0,
+    "false_alarms (FP)": 10,
+    "total_operational_cost (15:1)": 10.0,
+    "mean_grounding_fidelity": 1.0
+  }
+]

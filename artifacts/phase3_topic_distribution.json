@@ -1,0 +1,154 @@
+[
+  {
+    "topic_id": 0,
+    "dominant_inquiries_count": 3797,
+    "pct": 11.47,
+    "top_keywords": [
+      "flight",
+      "delta flight",
+      "delayed",
+      "flight delayed",
+      "hours",
+      "attendant",
+      "flight attendant",
+      "attendants",
+      "flight attendants",
+      "delayed hours",
+      "flight flight_num",
+      "delayed flight"
+    ]
+  },
+  {
+    "topic_id": 1,
+    "dominant_inquiries_count": 3076,
+    "pct": 9.29,
+    "top_keywords": [
+      "customer_handle",
+      "customer_handle customer_handle",
+      "delta customer_handle",
+      "customer_handle delta",
+      "customer_handle short_link",
+      "flying",
+      "amp",
+      "short_link",
+      "flying delta",
+      "fly",
+      "flights",
+      "flight customer_handle"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "dominant_inquiries_count": 3915,
+    "pct": 11.82,
+    "top_keywords": [
+      "short_link",
+      "delta short_link",
+      "thank",
+      "thank delta",
+      "short_link short_link",
+      "love",
+      "fly",
+      "fly delta",
+      "customer_handle short_link",
+      "good",
+      "travel",
+      "love delta"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "dominant_inquiries_count": 2495,
+    "pct": 7.54,
+    "top_keywords": [
+      "service",
+      "customer",
+      "customer service",
+      "delta customer",
+      "great",
+      "thank",
+      "service delta",
+      "today",
+      "worst",
+      "experience",
+      "time",
+      "wait"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "dominant_inquiries_count": 11783,
+    "pct": 35.59,
+    "top_keywords": [
+      "help",
+      "need",
+      "seat",
+      "hey",
+      "hey delta",
+      "change",
+      "just",
+      "check",
+      "delta need",
+      "delta help",
+      "app",
+      "time"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "dominant_inquiries_count": 4887,
+    "pct": 14.76,
+    "top_keywords": [
+      "flight_num",
+      "gate",
+      "delta flight_num",
+      "atl",
+      "plane",
+      "crew",
+      "flight flight_num",
+      "delay",
+      "agent",
+      "gate agent",
+      "delayed",
+      "going"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "dominant_inquiries_count": 2205,
+    "pct": 6.66,
+    "top_keywords": [
+      "thanks",
+      "thanks delta",
+      "delta thanks",
+      "great",
+      "upgrade",
+      "home",
+      "delta great",
+      "trip",
+      "making",
+      "day",
+      "class",
+      "thanks great"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "dominant_inquiries_count": 953,
+    "pct": 2.88,
+    "top_keywords": [
+      "sky",
+      "club",
+      "sky club",
+      "delta sky",
+      "miles",
+      "sky miles",
+      "priority",
+      "short_link",
+      "sky priority",
+      "fl short_link",
+      "lounge",
+      "fl"
+    ]
+  }
+]

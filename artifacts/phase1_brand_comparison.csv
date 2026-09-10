@@ -1,0 +1,10 @@
+brand,outbound_replies,reconstructed_threads,avg_thread_depth,median_thread_depth,max_thread_depth,pct_depth_ge_3 (multi-turn),pct_depth_ge_4 (deep multi-turn),dm_deflection_rate_pct,distinct_2_bigram_ratio,unique_agent_sigs,handoff_threads_pct
+AmazonHelp,169840,105302,3.57,2.0,66,43.25,40.8,0.64,0.095,17162,30.67
+AppleSupport,106860,84576,2.56,2.0,26,22.3,20.06,19.6,0.0427,1809,4.18
+SpotifyCares,43265,31871,2.78,2.0,24,26.2,25.14,22.04,0.0626,1382,15.76
+Delta,42256,33655,2.71,2.0,38,26.24,23.48,9.85,0.1727,777,0.38
+AmericanAir,36764,27913,2.67,2.0,22,26.53,24.07,11.47,0.1366,289,0.37
+Uber_Support,56270,45249,2.54,2.0,26,21.09,19.45,37.24,0.0388,1121,2.19
+XboxSupport,24557,18089,2.87,2.0,24,32.53,24.5,9.77,0.1041,1236,17.94
+Tesco,38575,30846,2.75,2.0,36,26.76,25.1,11.12,0.1433,1007,0.46
+SprintCare,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0,0.0

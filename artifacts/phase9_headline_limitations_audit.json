@@ -1,0 +1,33 @@
+{
+  "total_gold_samples": 245,
+  "blind_audit_sample_size": 49,
+  "intra_annotator_agreement_rate": 0.9796,
+  "intra_annotator_cohens_kappa": 0.9586,
+  "drift_cases_count": 1,
+  "drift_case_examples": [
+    {
+      "id": "TIER0_208",
+      "query": "@Delta Fraudulent login detected on my SkyMiles profile from unknown IP. Please freeze transactions. Flight <FLIGHT_NUM:DL702>",
+      "original_label": "ESCALATE",
+      "reannotated_label": "SELF_SERVICE",
+      "root_cause_of_drift": "Subjective threshold boundary on customer agitation vs self-service capability."
+    }
+  ],
+  "the_three_headline_illusions": {
+    "illusion_1_label_noise_ceiling": {
+      "title": "The Bayes Error / Human Label Noise Ceiling",
+      "explanation": "Our system reported a 96.0% F1 headline metric. However, human intra-annotator consistency on identical queries is 98.0% (Kappa=0.9586). Any model reporting > 94% F1 on uncurated customer support is partially overfitting to human annotator noise rather than capturing a cleaner truth.",
+      "bound": "Theoretical Upper Performance Bound ~ 92-94% F1"
+    },
+    "illusion_2_prevalence_shift": {
+      "title": "Base-Rate Prevalence Distortion (Gold Set vs In-the-Wild Stream)",
+      "explanation": "Our gold calibration test set was stratified to 49% escalations to rigorously stress-test edge cases. In the raw Twitter stream, true Tier-0 emergencies occur in only ~1.5% of tweets. At a 1.5% base rate, a 92.3% precision on test data drops to ~65% empirical precision in production, meaning human agents will review ~1 benign false alarm for every 2 true escalations.",
+      "bound": "Production Real-World Escalation Precision ~ 65-72%"
+    },
+    "illusion_3_survivorship_bias": {
+      "title": "Public Timeline Survivorship Bias",
+      "explanation": "The dataset only captures conversations that occurred in public view. High-value VIP passengers with dedicated phone lines, corporate contract travelers, or passengers whose tweets were deleted during high-severity PR crises are systematically under-represented in twcs.csv.",
+      "bound": "System is calibrated on public social interactions, not full omnichannel contact center streams."
+    }
+  }
+}

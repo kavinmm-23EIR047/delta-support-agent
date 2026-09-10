@@ -1,0 +1,17 @@
+{
+  "total_threads": 33445,
+  "multi_agent_handoffs": 3381,
+  "temporal_gap_gt_24h": 858,
+  "temporal_gap_gt_48h": 585,
+  "contains_canned_macros": 521,
+  "pure_canned_deflection_threads": 375,
+  "branching_threads": 5465,
+  "pii_entities_scrubbed": {
+    "urls": 14353,
+    "handles": 55668,
+    "pnrs": 3668,
+    "flights": 4348,
+    "phones": 1223,
+    "cards": 3
+  }
+}

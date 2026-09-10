@@ -1,0 +1,75 @@
+[
+  {
+    "id": "GOLD_001",
+    "thread_id": "delta_thread_112139",
+    "text": "Thankful for adjustable seatbelts after all that turkey. #HappyThanksgiving from all of us at Delta! \ud83c\udf57\ud83c\udf7d <SHORT_LINK>",
+    "actual_historical_reply": "Thankful for adjustable seatbelts after all that turkey. #HappyThanksgiving from all of us at Delta! \ud83c\udf57\ud83c\udf7d <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "Holiday promotional marketing tweet from Delta; no customer inquiry or complaint to resolve.",
+    "labeled_at": "2026-09-10T08:57:38.732547",
+    "corrected_at": "2026-09-10T09:32:12.762916"
+  },
+  {
+    "id": "GOLD_002",
+    "thread_id": "delta_thread_319544",
+    "text": "@Delta why was I sitting on a flight for over an hour and now we had to get off???!! I\u2019m going to miss my meeting!",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Your flight will depart ATL at 750am. The Pilots will be able to make some of the time while in air.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "RESERVATIONS_AND_TICKETING",
+    "human_rationale": "Delta's actual historical reply: a factual departure-time update, no real resolution of the anger or the missed-meeting problem.",
+    "labeled_at": "2026-09-10T09:08:31.676767",
+    "corrected_at": "2026-09-10T09:28:53.002086"
+  },
+  {
+    "id": "GOLD_003",
+    "thread_id": "delta_thread_474591",
+    "text": "Thanks to our incredible employees who helped over two million customers travel this Thanksgiving weekend without a cancellation. #DeltaProud <SHORT_LINK>",
+    "actual_historical_reply": "Thanks to our incredible employees who helped over two million customers travel this Thanksgiving weekend without a cancellation. #DeltaProud <SHORT_LINK>",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "REFUNDS_CREDITS_COMPENSATION",
+    "human_rationale": "Ask yourself honestly: does this need a human, or could a grounded bot handle it? This one's genuinely more defensible as escalate=1 than the last two were \u2014 real complaint, real inconvenience, borderline whether a templated reply is enough. Your call.",
+    "labeled_at": "2026-09-10T09:16:35.813848",
+    "corrected_at": "2026-09-10T09:29:13.188199"
+  },
+  {
+    "id": "GOLD_004",
+    "thread_id": "delta_thread_424524",
+    "text": "@Delta Needs a new feature: opting out of a middle seat Medallion upgrade \ud83d\ude15 #claustrophobic #aisletomiddleisnoupgrade",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> I will share your feedback with our leaders. Thank you.",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "BAGGAGE_AND_CARGO",
+    "human_rationale": "",
+    "labeled_at": "2026-09-10T09:16:54.898639"
+  },
+  {
+    "id": "GOLD_005",
+    "thread_id": "delta_thread_335795",
+    "text": "Hey @Delta. Love the bag tracking and notifications \ud83d\udc4d",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> We're so glad that we can offer this feature to our passengers. Glad you love it, Dawn! \ud83d\ude03",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "GENERAL_INQUIRY",
+    "human_rationale": "better",
+    "labeled_at": "2026-09-10T09:17:11.649256"
+  },
+  {
+    "id": "GOLD_006",
+    "thread_id": "delta_thread_160632",
+    "text": "@Delta HOME GIRL JUST WANNA STAY WITH FAMILY FOR ONE MORE DAY \u2639\ufe0f <SHORT_LINK>",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Hey home girl! \ud83d\ude09 DM your confirmation # here so we can take a look. <SHORT_LINK>",
+    "ground_truth_escalate": 1,
+    "ground_truth_intent": "REFUNDS_CREDITS_COMPENSATION",
+    "human_rationale": "nothing happy",
+    "labeled_at": "2026-09-10T09:24:14.880618"
+  },
+  {
+    "id": "GOLD_007",
+    "thread_id": "delta_thread_519967",
+    "text": "Would it even be a @Delta flight if it wasn\u2019t delayed??",
+    "actual_historical_reply": "<CUSTOMER_HANDLE> Please accept our apologies regarding the delays.",
+    "ground_truth_escalate": 0,
+    "ground_truth_intent": "SKYMILES_AND_LOYALTY",
+    "human_rationale": "w",
+    "labeled_at": "2026-09-10T09:29:45.773283"
+  }
+]
